@@ -80,29 +80,29 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ph.D. Crescencio Lima"
   avatar           : "https://pbs.twimg.com/profile_images/870271521083805696/poPjuLwZ_400x400.jpg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "IFBA - campus Vitória da Conquista"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  location         : "IFBA"
+  employer         : "IFBA"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com.br/citations?user=0DzUe-YAAAAJ&hl=en"
-  email            :
+  email            : crescencio@gmail.com
   researchgate     : "https://www.researchgate.net/profile/Crescencio_Lima" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "cretchas"
   foursquare       :
   github           : "cretchas"
   google_plus      :
   keybase          :
-  instagram        : "http://instagram.com/cretchas/"
+  instagram        : "cretchas"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "crescencio-lima-63b66320"
   orcid            : "https://orcid.org/0000-0002-0286-2056"
   pinterest        :
   soundcloud       :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "cretchas"
   wikipedia        :
 
 
