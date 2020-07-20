@@ -80,15 +80,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ph.D. Crescencio Lima"
+  name             : "Crescencio Lima"
   avatar           : "https://pbs.twimg.com/profile_images/870271521083805696/poPjuLwZ_400x400.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. in Computer Science (UFBA). Associate Professor (IFBA campus Vitória da Conquista)"
   location         : "IFBA"
-  employer         : "IFBA"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com.br/citations?user=0DzUe-YAAAAJ&hl=en"
   email            : crescencio@gmail.com
   researchgate     : "https://www.researchgate.net/profile/Crescencio_Lima" # example: "https://www.researchgate.net/profile/yourprofile"
+  orcid            : "https://orcid.org/0000-0002-0286-2056"
+  github           : "cretchas"
+  linkedin         : "crescencio-lima-63b66320"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +99,11 @@ author:
   flickr           :
   facebook         : "cretchas"
   foursquare       :
-  github           : "cretchas"
   google_plus      :
   keybase          :
   instagram        : "cretchas"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "crescencio-lima-63b66320"
-  orcid            : "https://orcid.org/0000-0002-0286-2056"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
