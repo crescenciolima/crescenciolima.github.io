@@ -11,7 +11,7 @@ title                    : "Crescencio Lima"
 title_separator          : "-"
 name                     : &name "Crescencio Lima"
 description              : &description "Researcher in Software Engineering"
-url                      : www.crescenciolima.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cretchas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cretchas/cretchas.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  avatar           : "https://pbs.twimg.com/profile_images/870271521083805696/poPjuLwZ_400x400.jpg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "IFBA - campus Vitória da Conquista"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com.br/citations?user=0DzUe-YAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Crescencio_Lima" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "cretchas"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "http://instagram.com/cretchas/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-0286-2056"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "cretchas"
   vine             :
   weibo            :
   xing             :
