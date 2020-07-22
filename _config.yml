@@ -83,7 +83,7 @@ author:
   name             : "Crescencio Lima"
   avatar           : "https://pbs.twimg.com/profile_images/870271521083805696/poPjuLwZ_400x400.jpg"
   bio              : "Ph.D. in Computer Science (UFBA) and Associate Professor at IFBA"
-  location         : "Vitória da Conquista"
+  location         : #"Vitória da Conquista"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com.br/citations?user=0DzUe-YAAAAJ&hl=en"
@@ -97,11 +97,11 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : #"cretchas"
+  facebook         : "cretchas"
   foursquare       :
   google_plus      :
   keybase          :
-  instagram        : #"cretchas"
+  instagram        : "cretchas"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   pinterest        :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : #"cretchas"
+  youtube          : "cretchas"
   wikipedia        :
 
 
