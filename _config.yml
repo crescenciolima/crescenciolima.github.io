@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Crescencio Lima"
   avatar           : "https://pbs.twimg.com/profile_images/870271521083805696/poPjuLwZ_400x400.jpg"
-  bio              : "Ph.D. in Computer Science (UFBA). Associate Professor at IFBA"
+  bio              : "Ph.D. in Computer Science (UFBA) and Associate Professor at IFBA"
   location         : "Vitória da Conquista"
   employer         : 
   pubmed           : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"cretchas"
+  twitter          : "cretchas"
   vine             :
   weibo            :
   xing             :
