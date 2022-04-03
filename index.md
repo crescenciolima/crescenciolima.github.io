@@ -6,7 +6,7 @@ permalink: /
 ---
 <img src="/images/us.svg" alt="English version" style="height: 20px; width:20px;"/> English Version 
 
-[comment]: # ![English version](https://octodex.github.com/images/yaktocat.png)
+<!-- # ![English version](https://octodex.github.com/images/yaktocat.png) -->
 
 I am Professor at the Computer Department of the [Federal Institute of Bahia campus Vitória da Conquista](http://portal.ifba.edu.br/conquista), Brazil. I do research in the broad area of Software Engineering (SE). I teach Programming Languages and SE at the BSc level. Moreover, I am the coordinator of the Postgraduate course on web development [PGDW](http://portal.ifba.edu.br/conquista/pos).
 
