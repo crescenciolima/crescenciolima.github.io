@@ -4,7 +4,7 @@ title: "Home"
 author_profile: true
 permalink: /
 ---
-<img src="/images/US_flag.svg" alt="English version" style="height: 20px; width:20px;"/> English Version 
+<img src="/images/us.png" alt="English version" style="height: 10px; width:20px;"/> English Version 
 
 <!-- # ![English version](https://octodex.github.com/images/yaktocat.png) -->
 
@@ -12,4 +12,4 @@ I am Professor at the Computer Department of the [Federal Institute of Bahia cam
 
 I received my Ph.D. on Computer Science from the [Federal University of Bahia](http://pgcomp.dcc.ufba.br/), Brazil, under [Dr. Christina Chavez](http://wiki.dcc.ufba.br/Aside/ProfChristinaFlach) and [Dr. Ivan Machado](http://ivanmachado.com.br/) supervision. During the academic year of 2014-2019. My Ph.D. thesis was about recovering software architecture variability from projects source code. A summary from my Ph.D. project can be found here.
 
-<img src="/images/BR_flag.svg" alt="Portuguese version" style="height: 25px; width:25px;"/> Brazilian Portuguese Version 
+<img src="/images/br.png" alt="Portuguese version" style="height: 10px; width:20px;"/> Brazilian Portuguese Version 
