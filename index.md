@@ -4,7 +4,7 @@ title: "Home"
 author_profile: true
 permalink: /
 ---
-<img src="/images/us_6.png" alt="English version" style="height: 18px; width:18px;"/> English Version 
+<img src="/images/us_flag.png" alt="English version" style="height: 18px; width:18px;"/> English Version 
 
 <!-- # ![English version](https://octodex.github.com/images/yaktocat.png) -->
 
@@ -12,7 +12,7 @@ I am a Professor at the Computer Department of the [Federal Institute of Bahia c
 
 I received my Ph.D. on Computer Science from the [Federal University of Bahia](http://pgcomp.dcc.ufba.br/), Brazil, under [Dr. Christina Chavez](https://pgcomp.ufba.br/christina-von-flach-garcia-chavez) and [Dr. Ivan Machado](http://ivanmachado.com.br/) supervision. During the academic year of 2014-2019. My Ph.D. thesis was about recovering software architecture variability from projects source code. A summary from my Ph.D. project and the document can be found [here](https://repositorio.ufba.br/handle/ri/32467).
 
-<img src="/images/br_6.png" alt="Portuguese version" style="height: 18px; width:18px;"/> Brazilian Portuguese Version 
+<img src="/images/br_flag.png" alt="Portuguese version" style="height: 18px; width:18px;"/> Brazilian Portuguese Version 
 
 Eu sou professor do Departamento de Computação do 
 [Instituto Federal da Bahia campus Vitória da Conquista](http://portal.ifba.edu.br/conquista), Brasil. Eu desenvolvo pesquisa em Engenharia de Software (SE). Eu leciono disciplinas de Linguagens de Programação e SE no curso de Bacharelado em Sistemas de Informação. Além disso, Eu sou o coordenador da pós graduação Latu Senso em Desenvolvimento Web [PGDW](http://portal.ifba.edu.br/conquista/pos).
