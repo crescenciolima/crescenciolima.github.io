@@ -4,7 +4,7 @@ title: "Home"
 author_profile: true
 permalink: /
 ---
-<img src="/images/us_4.png" alt="English version" style="height: 15px; width:16px;"/> English Version 
+<img src="/images/us_6.png" alt="English version" style="height: 20px; width:20px;"/> English Version 
 
 <!-- # ![English version](https://octodex.github.com/images/yaktocat.png) -->
 
