@@ -14,6 +14,8 @@ I received my Ph.D. on Computer Science from the [Federal University of Bahia](h
 
 <img src="/images/br_flag.png" alt="Portuguese version" style="height: 18px; width:18px;"/> Brazilian Portuguese Version 
 
+<img width="18" src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" /> Brazilian Portuguese Version 
+
 Eu sou professor do Departamento de Computação do 
 [Instituto Federal da Bahia campus Vitória da Conquista](http://portal.ifba.edu.br/conquista), Brasil. Eu desenvolvo pesquisa em Engenharia de Software (SE). Eu leciono disciplinas de Linguagens de Programação e SE no curso de Bacharelado em Sistemas de Informação. Além disso, Eu sou o coordenador da pós graduação Lato Sensu em Desenvolvimento Web [PGDW](http://portal.ifba.edu.br/conquista/pos).
 
