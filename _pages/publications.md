@@ -1,4 +1,12 @@
 ---
+layout: single
+author_profile: true
+title: Publications
+permalink: /publications/
+---
+
+<!--
+---
 layout: archive
 title: "Publications"
 permalink: /publications/
@@ -14,6 +22,8 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+-->
+
 
 ## 2021
 
