@@ -8,22 +8,22 @@ author_profile: true
 
 I research about how to improve Software Engineering using empirical methods and Evidence-Based Software Engineering. This page provides possible research topics (for BS, MS, or PhD level). Students interested in working with me might be able to think possible solutions to one of these problems. **English skills is required for any of them (reading at least).**
 
-1. Mining Software Repositories of COVID-19
-**Questions:** How common are dual-license software? Why developers use two+ licenses?
-**Skills:** script programming (e.g., Python, Lua, Ruby, etc)
-**Related Work**: [MSR'18](http://gustavopinto.github.io/lost+found/msr2018b.pdf)
-
-1. Understanding Students Behavior in Open-Source Communities<br>
-**Questions:** What kind of contributors are made by students? Are they working for some classroom projects? summer job? hackathons?<br>
-**Skills:** script programming (e.g., Python, Lua, Ruby, etc)<br>
-**Related work**: [CSEET'17](http://gustavopinto.github.io/lost+found/cseet2017.pdf)
-
 ## Current research investigations
 * Software Product Lines
 * Software Testing Automation
 * Recovering Software Architectures
 * Empirical methods 
 
+## Possible projects
+1. Mining Software Repositories of COVID-19<br>
+**Questions:** What are the main programming language of the projects? How many projects are available?<br>
+**Skills:** script programming (e.g., Python, pyDriller, etc)<br>
+**Related Work**: [MSR'18](http://gustavopinto.github.io/lost+found/msr2018b.pdf)
+
+1. System to support selective process<br>
+**Questions:** What are the mandatory features? How to improve the system?<br>
+**Skills:** web programming (e.g., NextJS, Vercel, Java Script, etc)<br>
+**Related work**: [Bem Hur project](#), [Leticia Soares project](#), [Gabriel Dias project](#).
 
 ## Partnerships
 * [Fernando Kenji](https://fkenjikamei.github.io/) (IFAL, Brazil)
