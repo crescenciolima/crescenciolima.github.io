@@ -26,7 +26,16 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+
+## More Information
+<a href="http://lattes.cnpq.br/9104143705992817">
+  <img src="https://github.com/cretchas/cretchas/raw/main/svg/academic/lattes.svg" alt="lattes" style="vertical-align:top; margin:6px 4px">
+</a>
+
+<a href="https://orcid.org/0000-0002-0286-2056">
+  <img src="https://github.com/cretchas/cretchas/raw/main/svg/academic/ORCID.svg" alt="orcid" style="vertical-align:top; margin:6px 4px">
+</a>
+
 <!-- Skills
 ======
 * Skill 1
@@ -41,7 +50,6 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
--->
 
 Talks
 ======
@@ -58,3 +66,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
