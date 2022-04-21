@@ -41,6 +41,13 @@ author_profile: true
 <a href="https://scholar.google.com.br/citations?user=0DzUe-YAAAAJ&hl=en">
   <img src="https://github.com/cretchas/cretchas/raw/main/svg/academic/Google_Scholar.svg" alt="Google Scholar" style="vertical-align:top; margin:6px 4px">
 </a>
+<a href="http://lattes.cnpq.br/9104143705992817">
+  <img src="https://github.com/cretchas/cretchas/raw/main/svg/academic/lattes.svg" alt="lattes" style="vertical-align:top; margin:6px 4px">
+</a>
+<a href="https://orcid.org/0000-0002-0286-2056">
+  <img src="https://github.com/cretchas/cretchas/raw/main/svg/academic/ORCID.svg" alt="orcid" style="vertical-align:top; margin:6px 4px">
+</a>
 <a href="https://www.researchgate.net/profile/Crescencio_Lima">
   <img src="https://github.com/cretchas/cretchas/raw/main/svg/academic/Research_Gate.svg" alt="Research Gate" style="vertical-align:top; margin:6px 4px">
 </a>
+
