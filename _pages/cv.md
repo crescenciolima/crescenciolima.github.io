@@ -9,23 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * B.S. in Computer Science, [UESB](http://www.uesb.br/computacao/), 2006
 * M.S. in Computer Science, [UFPE](http://cin.ufpe.br/), 2011
 * Ph.D in Computer Science, [UFBA](http://pgcomp.ufba.br/), 2019 
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Work experience
+* 2012 - Present: 
+  * Federal Institute of Bahia ([IFBA](portal.ifba.edu.br))
+  * Associate Professor and Researcher
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2010 - 2011: 
+  * [UNIFACOL](http://unifacol.edu.br)
+  * Assistant Professor
+
+* 2010 - 2011:
+  * [MV](http://mv.com.br)
+  * Test Analyst
+
+* 2006 - 2009:
+  * [C.E.S.A.R.](https://www.cesar.org.br)
+  * Test Analyst
 
 ## More Information
 <a href="http://lattes.cnpq.br/9104143705992817">
