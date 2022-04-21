@@ -1,4 +1,12 @@
 ---
+layout: single
+author_profile: true
+title: CV
+permalink: /cv/
+---
+
+<!--
+---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -8,6 +16,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+-->
 
 ## Education
 * B.S. in Computer Science, [UESB](http://www.uesb.br/computacao/), 2006
@@ -16,7 +25,7 @@ redirect_from:
 
 ## Work experience
 * 2012 - Present: 
-  * Federal Institute of Bahia ([IFBA](portal.ifba.edu.br))
+  * Federal Institute of Bahia ([IFBA](http://portal.ifba.edu.br))
   * Associate Professor and Researcher
 
 * 2010 - 2011: 
