@@ -12,7 +12,7 @@ I am a Professor at the Computer Department of the [Federal Institute of Bahia c
 
 I received my Ph.D. on Computer Science from the [Federal University of Bahia](http://pgcomp.dcc.ufba.br/), Brazil, under [Dr. Christina Chavez](https://pgcomp.ufba.br/christina-von-flach-garcia-chavez) and [Dr. Ivan Machado](http://ivanmachado.com.br/) supervision. During the academic year of 2014-2019. My Ph.D. thesis was about recovering software architecture variability from projects source code. A summary from my Ph.D. project and the document can be found [here](https://repositorio.ufba.br/handle/ri/32467).
 
-Check out my YouTube Channel:
+Check out my YouTube Channel:<br>
 [![crescencio-lima](https://img.shields.io/badge/crescencio--lima-channel-green?colorA=ef5350&colorB=d32f2f&style=for-the-badge)](https://www.youtube.com/c/CrescencioLima/)
 
 <img src="/images/br_flag.png" alt="Portuguese version" style="height: 18px; width:18px;"/> Brazilian Portuguese Version 

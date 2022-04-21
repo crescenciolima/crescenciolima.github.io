@@ -35,15 +35,12 @@ author_profile: true
 <a href="https://ifba.academia.edu/CrescencioRodriguesLimaNeto">
   <img src="https://github.com/cretchas/cretchas/raw/main/svg/academic/academia.svg" alt="academia" style="vertical-align:top; margin:6px 4px">
 </a>
-
 <a href="http://dblp.uni-trier.de/pers/hd/n/Neto:Crescencio_Rodrigues_Lima">
   <img src="https://github.com/cretchas/cretchas/raw/main/svg/academic/DBLP.svg" alt="dblp" style="vertical-align:top; margin:6px 4px">
 </a>
-
 <a href="https://scholar.google.com.br/citations?user=0DzUe-YAAAAJ&hl=en">
   <img src="https://github.com/cretchas/cretchas/raw/main/svg/academic/Google_Scholar.svg" alt="Google Scholar" style="vertical-align:top; margin:6px 4px">
 </a>
-
 <a href="https://www.researchgate.net/profile/Crescencio_Lima">
   <img src="https://github.com/cretchas/cretchas/raw/main/svg/academic/Research_Gate.svg" alt="Research Gate" style="vertical-align:top; margin:6px 4px">
 </a>
