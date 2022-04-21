@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, UESB, 2006
-* M.S. in Computer Science, UFPE, 2011
-* Ph.D in Computer Science, UFBA, 2019 
+* B.S. in Computer Science, [UESB](http://www.uesb.br/computacao/), 2006
+* M.S. in Computer Science, [UFPE](http://cin.ufpe.br/), 2011
+* Ph.D in Computer Science, [UFBA](http://pgcomp.ufba.br/), 2019 
 
 Work experience
 ======
