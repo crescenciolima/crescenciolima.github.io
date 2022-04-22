@@ -4,7 +4,7 @@ See more info at https://academicpages.github.io/
 
 Contributors
 ---------------------------
-Crescencio Lima @crescenciolima.
+
 [![crescencio-lima](https://img.shields.io/badge/crescencio--lima-github-black?colorA=808080&colorB=000000&style=for-the-badge)](https://www.github.com/crescenciolima)
 
 
