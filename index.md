@@ -6,8 +6,6 @@ permalink: /
 ---
 <img src="/images/us_flag.png" alt="English version" style="height: 18px; width:18px;"/> English Version 
 
-<!-- # ![English version](https://octodex.github.com/images/yaktocat.png) -->
-
 I am a Professor at the Computer Department of the [Federal Institute of Bahia campus Vitória da Conquista](http://portal.ifba.edu.br/conquista), Brazil. I do research in the broad area of Software Engineering (SE). I teach Programming Languages and SE at the BSc level. Moreover, I am the coordinator of the Postgraduate course on web development [PGDW](http://portal.ifba.edu.br/conquista/pos).
 
 I received my Ph.D. on Computer Science from the [Federal University of Bahia](http://pgcomp.dcc.ufba.br/), Brazil, under [Dr. Christina Chavez](https://pgcomp.ufba.br/christina-von-flach-garcia-chavez) and [Dr. Ivan Machado](http://ivanmachado.com.br/) supervision. During the academic year of 2014-2019. My Ph.D. thesis was about recovering software architecture variability from projects source code. A summary from my Ph.D. project and the document can be found [here](https://repositorio.ufba.br/handle/ri/32467).
