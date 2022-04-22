@@ -13,7 +13,10 @@ I received my Ph.D. on Computer Science from the [Federal University of Bahia](h
 Check out my YouTube Channel:<br>
 [![crescencio-lima](https://img.shields.io/badge/crescencio--lima-channel-green?colorA=ef5350&colorB=d32f2f&style=for-the-badge)](https://www.youtube.com/c/CrescencioLima/)
 
-[![crescencio-lima](https://img.shields.io/badge/crescencio--lima-channel-green?colorA=ef5350&colorB=d32f2f&style=for-the-badge)](https://www.youtube.com/c/CrescencioLima/)
+Check out my GitHub Page:
+[![crescencio-lima](https://img.shields.io/badge/crescencio--lima-github-black?colorA=808080&colorB=000000&style=for-the-badge)](https://www.github.com/crescenciolima)
+
+
 
 <img src="/images/br_flag.png" alt="Portuguese version" style="height: 18px; width:18px;"/> Brazilian Portuguese Version 
 
