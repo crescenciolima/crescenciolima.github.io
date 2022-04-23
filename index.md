@@ -24,3 +24,6 @@ Eu sou professor do Departamento de Computação do
 [Instituto Federal da Bahia campus Vitória da Conquista](http://portal.ifba.edu.br/conquista), Brasil. Eu desenvolvo pesquisa em Engenharia de Software (SE). Eu leciono disciplinas de Linguagens de Programação e SE no curso de Bacharelado em Sistemas de Informação. Além disso, Eu sou o coordenador da pós graduação Lato Sensu em Desenvolvimento Web [PGDW](http://portal.ifba.edu.br/conquista/pos).
 
 Eu recebi meu título de doutor em Ciência da Computação pela [Universidade Federal da Bahia](http://pgcomp.dcc.ufba.br/), Brasil, sobre a orientação da [Dr. Christina Chavez](https://pgcomp.ufba.br/christina-von-flach-garcia-chavez) e co-orientação do [Dr. Ivan Machado](http://ivanmachado.com.br/) durante os anos 2014-2019. Minha tese de doutorado foi sobre recuperação de variabilidade arquitetural de software. Um resumo da tese e o documento completo pode ser encontrados [aqui](https://repositorio.ufba.br/handle/ri/32467).
+
+Check out web site old version: 
+[![crescencio-lima](https://img.shields.io/badge/crescencio--lima-website-green?colorA=61c265&colorB=4CAF50&style=for-the-badge)](http://crescencio-lima.herokuapp.com)
