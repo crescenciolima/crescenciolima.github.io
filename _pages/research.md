@@ -25,6 +25,11 @@ I research about how to improve Software Engineering using empirical methods and
 **Skills:** web programming (e.g., NextJS, Vercel, Java Script, etc)<br>
 **Related work**: [Bem Hur project](#), [Leticia Soares project](#), [Gabriel Dias project](#).
 
+## Research groups
+* [Sistemas de Hardware e Software](http://dgp.cnpq.br/dgp/espelhogrupo/41556)
+* Grupo de Inovação e Pesquisa em Automação e Robótica - [GIPAR](http://dgp.cnpq.br/dgp/espelhogrupo/460897)
+* Grupo de Inovação e Pesquisa em Compatibilidade Eletromagnética e Qualidade de Energia - [GIPCEM](http://dgp.cnpq.br/dgp/espelhogrupo/598186) 
+
 ## Partnerships
 * [Fernando Kenji](https://fkenjikamei.github.io/) (IFAL, Brazil)
 * [Igor Wiese](http://igorwiese.com/) (UTFPR, Brazil)
