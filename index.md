@@ -18,9 +18,6 @@ Eu sou professor do Departamento de Computação do
 
 Eu recebi meu título de doutor em Ciência da Computação pela [Universidade Federal da Bahia](http://pgcomp.dcc.ufba.br/), Brasil, sobre a orientação da [Dr. Christina Chavez](https://pgcomp.ufba.br/christina-von-flach-garcia-chavez) e co-orientação do [Dr. Ivan Machado](http://ivanmachado.com.br/) durante os anos 2014-2019. Minha tese de doutorado foi sobre recuperação de variabilidade arquitetural de software. Um resumo da tese e o documento completo pode ser encontrados [aqui](https://repositorio.ufba.br/handle/ri/32467).
 
-
-<br/>
-
 ## More Information
 
 Check out my YouTube Channel:

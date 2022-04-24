@@ -32,15 +32,12 @@ author_profile: true
 
 ## 2020
 
-1. Crescencio Lima, Ivan Machado, Matthias Galster, Christina von Flach G. Chavez. "Recovering Architectural Variability from Source Code". Accepted for Accepted to the 33th Brazilian Symposium on Software Engineering (SBES’2020).
+1. Crescencio Lima, [Ivan Machado](http://ivanmachado.com.br/), Matthias Galster, Christina von Flach G. Chavez. "Recovering Architectural Variability from Source Code". Accepted to the 33th Brazilian Symposium on Software Engineering (SBES’2020).
 
 ## 2019
 
-1. Crescencio Lima, Wesley Klewerton Guez Assunção, Jabier Martinez, William Mendonça, Ivan do Carmo Machado, Christina von Flach G. Chavez.
-"Product line architecture recovery with outlier filtering in software families: the Apo-Games case study". Accepted to the Journal of the Brazilian Compututer Society.<br/>
+1. Crescencio Lima, Wesley Klewerton Guez Assunção, Jabier Martinez, William Mendonça, [Ivan Machado](http://ivanmachado.com.br/), Christina von Flach G. Chavez. "Product line architecture recovery with outlier filtering in software families: the Apo-Games case study". Accepted to the Journal of the Brazilian Compututer Society.<br/>
 [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i>Paper](https://journal-bcs.springeropen.com/track/pdf/10.1186/s13173-019-0088-4.pdf)<br/>
-
-
 
 ## More Information
 
