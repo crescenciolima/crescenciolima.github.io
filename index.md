@@ -16,9 +16,11 @@ Check out my YouTube Channel:
 Check out my GitHub Page:
 [![crescencio-lima](https://img.shields.io/badge/crescencio--lima-github-black?colorA=808080&colorB=000000&style=for-the-badge)](https://www.github.com/crescenciolima)
 
+Check out the web site old version: 
+[![crescencio-lima](https://img.shields.io/badge/crescencio--lima-website-green?colorA=61c265&colorB=4CAF50&style=for-the-badge)](http://crescencio-lima.herokuapp.com)
 
 
-<img src="/images/br_flag.png" alt="Portuguese version" style="height: 18px; width:18px;"/> Brazilian Portuguese Version 
+<img src="/images/br_flag.png" alt="Portuguese version" style="height: 18px; width:18px;"/> Portuguese Version 
 
 <details>
   <summary> <b> </b> <i>(click para expandir!)</i> </summary>
@@ -31,5 +33,4 @@ Eu recebi meu título de doutor em Ciência da Computação pela [Universidade F
 
 </details>
 
-Check out web site old version: 
-[![crescencio-lima](https://img.shields.io/badge/crescencio--lima-website-green?colorA=61c265&colorB=4CAF50&style=for-the-badge)](http://crescencio-lima.herokuapp.com)
+<br/>
