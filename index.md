@@ -10,17 +10,8 @@ I am a Professor at the Computer Department of the [Federal Institute of Bahia c
 
 I received my Ph.D. on Computer Science from the [Federal University of Bahia](http://pgcomp.dcc.ufba.br/), Brazil, under [Dr. Christina Chavez](https://pgcomp.ufba.br/christina-von-flach-garcia-chavez) and [Dr. Ivan Machado](http://ivanmachado.com.br/) supervision. During the academic year of 2014-2019. My Ph.D. thesis was about recovering software architecture variability from projects source code. A summary from my Ph.D. project and the document can be found [here](https://repositorio.ufba.br/handle/ri/32467).
 
-Check out my YouTube Channel:
-[![crescencio-lima](https://img.shields.io/badge/crescencio--lima-channel-green?colorA=ef5350&colorB=d32f2f&style=for-the-badge)](https://www.youtube.com/c/CrescencioLima/)
 
-Check out my GitHub Page:
-[![crescencio-lima](https://img.shields.io/badge/crescencio--lima-github-black?colorA=808080&colorB=000000&style=for-the-badge)](https://www.github.com/crescenciolima)
-
-Check out the web site old version: 
-[![crescencio-lima](https://img.shields.io/badge/crescencio--lima-website-green?colorA=61c265&colorB=4CAF50&style=for-the-badge)](http://crescencio-lima.herokuapp.com)
-
-
-<img src="/images/br_flag.png" alt="Portuguese version" style="height: 18px; width:18px;"/> Portuguese Version 
+## <img src="/images/br_flag.png" alt="Portuguese version" style="height: 18px; width:18px;"/> Portuguese Version 
 
 <details>
   <summary> <b> </b> <i>(click para expandir!)</i> </summary>
@@ -34,3 +25,14 @@ Eu recebi meu título de doutor em Ciência da Computação pela [Universidade F
 </details>
 
 <br/>
+
+## More Information
+
+Check out my YouTube Channel:
+[![crescencio-lima](https://img.shields.io/badge/crescencio--lima-channel-green?colorA=ef5350&colorB=d32f2f&style=for-the-badge)](https://www.youtube.com/c/CrescencioLima/)
+
+Check out my GitHub Page:
+[![crescencio-lima](https://img.shields.io/badge/crescencio--lima-github-black?colorA=808080&colorB=000000&style=for-the-badge)](https://www.github.com/crescenciolima)
+
+Check out the web site old version: 
+[![crescencio-lima](https://img.shields.io/badge/crescencio--lima-website-green?colorA=61c265&colorB=4CAF50&style=for-the-badge)](http://crescencio-lima.herokuapp.com)
