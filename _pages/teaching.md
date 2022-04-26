@@ -18,9 +18,6 @@ permalink: /teaching/
 1. Linguagem de Programação 1
 1. Qualidade de Software
 
-<details>
-  <summary> <b> </b> <i>(click to expand!)</i> </summary>
-  <br />
 
 ### 2021.2
 1. Engenharia de Software
@@ -108,4 +105,3 @@ permalink: /teaching/
 1. Jogos Educacionais
 1. Linguagem de Programação 2
 
-</details>
