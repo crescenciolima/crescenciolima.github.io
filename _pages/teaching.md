@@ -75,13 +75,13 @@ permalink: /teaching/
   <b>2014.2</b>
     <ol>
       <li>E-Commerce</li>
-      <li>Software Engineering</li>
+      <li>Programming Language 1</li>
     </ol>
   <br/>
-  <b>2014.2</b>
+  <b>2014.1</b>
     <ol>
       <li>E-Commerce</li>
-      <li>Software Engineering</li>
+      <li>Programming Language 1</li>
     </ol>
   <br/>
   <b>2013.2</b>
@@ -235,7 +235,128 @@ permalink: /teaching/
 <details>
   <summary> <b> </b> <i>(click para ver os outros semestres!)</i> </summary>
 
-  ### 2021.2
+  <br/>
+  <b>2021.2</b>
+    <ol>
+      <li>Engenharia de Software</li>
+      <li>Linguagem de Programação 1</li>
+      <li>Qualidade de Software</li>
+    </ol>
+  <br/>
+  <b>2021.1</b>
+    <ol>
+      <li>Engenharia de Software</li>
+      <li>Linguagem de Programação 1</li>
+      <li>Qualidade de Software</li>
+    </ol>
+  <br/>
+  <b>2020.2</b>
+    <ol>
+      <li>Engenharia de Software</li>
+      <li>Linguagem de Programação 1</li>
+      <li>Qualidade de Software</li>
+    </ol>
+  <br/>
+  <b>2020.1</b>
+    <ol>
+      <li>Engenharia de Software</li>
+      <li>Jogos Digitais</li>
+      <li>Linguagem de Programação 1</li>
+      <li>Processo de Desenvolvimento Ágil de Sistemas Web (PGDW)</li>
+    </ol>
+  <br/>
+  <b>2019.2</b>
+    <ol>
+      <li>Gestão e Avaliação de Sistemas</li>
+      <li>Interface Homem-Máquina</li>
+      <li>Linguagem de Programação 1</li>
+      <li>Analysis and Design of Web Systems (PGDW)</li>
+    </ol>
+  <br/>
+  <b>2019.1</b>
+    <ol>
+      <li>Gestão e Avaliação de Sistemas</li>
+      <li>Interface Homem-Máquina</li>
+      <li>Linguagem de Programação 1</li>
+    </ol>
+  <br/>
+  <b>2015.2</b>
+    <ol>
+      <li>Software Engineering</li>
+      <li>Linguagem de Programação 1</li>
+      <li>Gestão e Avaliação de Sistemas</li>
+    </ol>
+  <br/>
+  <b>2015.1</b>
+    <ol>
+      <li>Comércio Eletrônico</li>
+      <li>Engenharia de Software</li>
+    </ol>
+  <br/>
+  <b>2014.2</b>
+    <ol>
+      <li>Comércio Eletrônico</li>
+      <li>Linguagem de Programação 1</li>
+    </ol>
+  <br/>
+  <b>2014.1</b>
+    <ol>
+      <li>Comércio Eletrônico</li>
+      <li>Linguagem de Programação 1</li>
+    </ol>
+  <br/>
+  <b>2013.2</b>
+    <ol>
+      <li>Comércio Eletrônico</li>
+      <li>Engenharia de Software</li>
+      <li>Segurança de Sistemas</li>    
+    </ol>
+  <br/>
+  <b>2013.1</b>
+    <ol>
+      <li>Comércio Eletrônico</li>
+      <li>Engenharia de Software</li>
+      <li>Linguagem de Programação 1</li>
+      <li>Sistemas Operacionais</li>
+    </ol>
+  <br/>
+  <b>2012.2</b>
+    <ol>
+      <li>Segurança de Sistemas</li>
+      <li>Técnicas de Programação</li>
+      <li>Linguagem de Programação 1</li>
+      <li>Sistemas Operacionais</li>
+    </ol>
+  <br/>
+  <b>2011.2</b>
+    <ol>
+      <li>Elementos Computacionais</li>
+      <li>Tecnologia Aplicada a EAD</li>
+    </ol>
+  <br/>
+  <b>2011.1</b>
+    <ol>
+      <li>Banco de Dados</li>
+      <li>Projeto de Banco de Dados</li>
+      <li>Segurança em Sistemas de Informação</li>
+      <li>Teoria da Computação</li>
+    </ol>
+  <br/>
+  <b>2010.2</b>
+    <ol>
+      <li>Banco de Dados</li>
+      <li>Projeto de Banco de Dados</li>
+      <li>Segurança em Sistemas de Informação</li>
+      <li>Teoria da Computação</li>
+    </ol>
+  <br/>
+  <b>2010.1</b>
+    <ol>
+      <li>Jogos Educacionais</li>
+      <li>Linguagem de Programação 2</li>
+    </ol>
+
+  <!-- ### 2021.2
   1. Engenharia de Software
   1. Linguagem de Programação 1
   1. Qualidade de Software
@@ -319,6 +440,6 @@ permalink: /teaching/
 
   ### 2010.1
   1. Jogos Educacionais
-  1. Linguagem de Programação 2
+  1. Linguagem de Programação 2 -->
 
 </details>
