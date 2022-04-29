@@ -11,12 +11,134 @@ permalink: /teaching/
 1. Software Quality
 
 <details>
-  <summary> <b> </b> <i>(click to see the other semesters!)</i> </summary>
+  <summary>
+    <i>(click to see the other semesters!)</i> 
+  </summary>
+  <br/>
+  <b>2021.2</b>
+    <ol>
+      <li>Software Engineering</li>
+      <li>Programming Language 1</li>
+      <li>Software Quality</li>
+    </ol>
+  <br/>
+  <b>2021.1</b>
+    <ol>
+      <li>Software Engineering</li>
+      <li>Programming Language 1</li>
+      <li>Software Quality</li>
+    </ol>
+  <br/>
+  <b>2020.2</b>
+    <ol>
+      <li>Software Engineering</li>
+      <li>Programming Language 1</li>
+      <li>Software Quality</li>
+    </ol>
+  <br/>
+  <b>2020.1</b>
+    <ol>
+      <li>Digital Games</li>
+      <li>Software Engineering</li>
+      <li>Programming Language 1</li>
+      <li>Agile Web Systems Development Process (PGDW)</li>
+    </ol>
+  <br/>
+  <b>2019.2</b>
+    <ol>
+      <li>Systems Management and Assessment</li>
+      <li>Human-Machine Interface</li>
+      <li>Programming Language 1</li>
+      <li>Analysis and Design of Web Systems (PGDW)</li>
+    </ol>
+  <br/>
+  <b>2019.1</b>
+    <ol>
+      <li>Systems Management and Assessment</li>
+      <li>Human-Machine Interface</li>
+      <li>Programming Language 1</li>
+    </ol>
+  <br/>
+  <b>2015.2</b>
+    <ol>
+      <li>Software Engineering</li>
+      <li>Programming Language 1</li>
+      <li>Systems Management and Assessment</li>
+    </ol>
+  <br/>
+  <b>2015.1</b>
+    <ol>
+      <li>E-Commerce</li>
+      <li>Software Engineering</li>
+    </ol>
+  <br/>
+  <b>2014.2</b>
+    <ol>
+      <li>E-Commerce</li>
+      <li>Software Engineering</li>
+    </ol>
+  <br/>
+  <b>2014.2</b>
+    <ol>
+      <li>E-Commerce</li>
+      <li>Software Engineering</li>
+    </ol>
+  <br/>
+  <b>2013.2</b>
+    <ol>
+      <li>E-Commerce</li>
+      <li>Software Engineering</li>
+      <li>Systems Security</li>
+    </ol>
+  <br/>
+  <b>2013.1</b>
+    <ol>
+      <li>E-Commerce</li>
+      <li>Software Engineering</li>
+      <li>Programming Language 1</li>
+      <li>Operating Systems</li>
+    </ol>
+  <br/>
+  <b>2012.2</b>
+    <ol>
+      <li>Systems Security</li>
+      <li>Programming Techniques</li>
+      <li>Programming Language 1</li>
+      <li>Operating Systems</li>
+    </ol>
+  <br/>
+  <b>2011.2</b>
+    <ol>
+      <li>Computer Elements</li>
+      <li>Tecnology Applied to EAD</li>
+    </ol>
+  <br/>
+  <b>2011.1</b>
+    <ol>
+      <li>Database</li>
+      <li>Database Projects</li>
+      <li>Information Systems Security</li>
+      <li>Theory of Computing</li>
+    </ol>
+  <br/>
+  <b>2010.2</b>
+    <ol>
+      <li>Database</li>
+      <li>Database Projects</li>
+      <li>Information Systems Security</li>
+      <li>Theory of Computing</li>
+    </ol>
+  <br/>
+  <b>2010.1</b>
+    <ol>
+      <li>Educational Games</li>
+      <li>Programming Language 2</li>
+    </ol>
 
-  ### 2021.2
+<!--  ### 2021.2
   1. Software Engineering
   1. Programing Language 1
-  1. Software Quality
+  1. Software Quality 
 
   ### 2021.1
   1. Software Engineering
@@ -97,7 +219,7 @@ permalink: /teaching/
 
   ### 2010.1
   1. Educational Games
-  1. Programming Language 2
+  1. Programming Language 2 -->
 
 
 </details>
