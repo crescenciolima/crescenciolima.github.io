@@ -1,8 +1,8 @@
 ---
 layout: single
 author_profile: true
-title: Portifolio
-permalink: /portifolio/
+title: Portfolio
+permalink: /portfolio/
 ---
 
 TBD.
