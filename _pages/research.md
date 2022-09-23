@@ -36,7 +36,7 @@ I research about how to improve Software Engineering using empirical methods and
 **Skills:** reading skills, script programming (e.g., Python, etc)<br>
 **Related work**: [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i>Paper](https://www.iiis.org/cds2008/cd2008sci/MEI2008/PapersPdf/M205IP.pdf)<br/>
 
-1. Lay-offs in Software Engineering and Software Development indutry due to COVID-19<br>
+1. Lay-offs in Software Engineering and Software Development industry due to COVID-19<br>
 **Questions:** TBD.<br>
 **Skills:** reading skills<br>
 **Related work**: TBD.
