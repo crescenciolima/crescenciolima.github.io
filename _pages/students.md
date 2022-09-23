@@ -14,7 +14,6 @@ I am continuously looking for good people to join my research group, at all leve
 
 ## Current students
 
-- Gabriel Almeida Dias (PGDW)
 - Augusto Cézar Meira Marinho Rocha (BSI)
 - Isaac de Jesus Silva (BSI)
 - Rodrigo Neves (BSI)
@@ -22,6 +21,7 @@ I am continuously looking for good people to join my research group, at all leve
 
 ## Alumni (sorted by graduation year)
 
+- Gabriel Almeida Dias (PGDW), 2022
 - Bem Hur Ganem Silva (PGDW), 2021
 - Letícia Porto Soares (PGDW), 2021
 - Breno Antonivaldo Lessa Andrade (BSI, co-supervised with Djan Almeida Santos), 2016
