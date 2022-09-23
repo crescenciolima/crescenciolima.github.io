@@ -13,6 +13,7 @@ I research about how to improve Software Engineering using empirical methods and
 * Software Testing Automation
 * Recovering Software Architectures
 * Empirical methods 
+* Continuous Integration (CI) and Continuous Delivery (CD)
 
 ## Possible projects
 1. Mining Software Repositories of COVID-19<br>
@@ -21,16 +22,16 @@ I research about how to improve Software Engineering using empirical methods and
 **Related Work**: [MSR'18](http://gustavopinto.github.io/lost+found/msr2018b.pdf)
 
 1. System to support selective process<br>
-**Questions:** What are the mandatory features? How to improve the system?<br>
+**Questions:** What are the mandatory features? How to improve the system? How to develop test automation?<br>
 **Skills:** web programming (e.g., NextJS, Vercel, Java Script, etc)<br>
-**Related work**: [Bem Hur project](#), [Leticia Soares project](#), [Gabriel Dias project](#).
+**Related work**: [Bem Hur project](https://github.com/crescenciolima/pos-web), [Leticia Soares project](https://github.com/crescenciolima/pos-web), [Gabriel Dias project](https://github.com/crescenciolima/pos-web).
 
 1. Grey Literature in Software Engineering<br>
 **Questions:** How to identify the practitioner point-of-view? Where to find the software industry literature?<br>
 **Skills:** reading skills<br>
 **Related work**: [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i>Preprint](https://arxiv.org/abs/2104.13435)<br/>
 
-1. Mental Health of Software Engineerts<br>
+1. Mental Health of Software Engineers<br>
 **Questions:** How anxiety, depression, and stress impact in the software quality?<br>
 **Skills:** reading skills, script programming (e.g., Python, etc)<br>
 **Related work**: [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i>Paper](https://www.iiis.org/cds2008/cd2008sci/MEI2008/PapersPdf/M205IP.pdf)<br/>
