@@ -24,6 +24,9 @@ author_profile: true
 {% endfor %}
 -->
 
+## 2022
+
+1. **Crescencio Lima**, Mateus Cardoso, Ivan Machado, Eduardo Almeida, Christina Chavez (2022). "[Understanding the Variability on the Recovery of Product Line Architectures](https://doi.org/10.1007/978-3-031-11686-5_12). Book chpater of the Handbook of Re-Engineering Software Intensive Systems into Software Product Lines. Springer Nature. 
 
 ## 2021
 
