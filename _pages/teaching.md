@@ -5,7 +5,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-### 2022.2
+### 2023.1
 1. Software Engineering
 1. Programing Language 1
 1. Software Quality
@@ -14,6 +14,13 @@ permalink: /teaching/
   <summary>
     <i>(click to see the other semesters!)</i> 
   </summary>
+  <br/>
+  <b>2022.2</b>
+    <ol>
+      <li>Software Engineering</li>
+      <li>Programming Language 1</li>
+      <li>Software Quality</li>
+    </ol>
   <br/>
   <b>2022.1</b>
     <ol>
@@ -231,10 +238,12 @@ permalink: /teaching/
 
 </details>
 
+### All classes are available at my YouTube Channel:
+[![crescencio-lima](https://img.shields.io/badge/crescencio--lima-channel-green?colorA=ef5350&colorB=d32f2f&style=for-the-badge)](https://www.youtube.com/c/CrescencioLima/)
 
 ## <img src="/images/br_flag.png" alt="Portuguese version" style="height: 18px; width:18px;"/> Portuguese Version 
 
-### 2022.2
+### 2023.1
 1. Engenharia de Software
 1. Linguagem de Programação 1
 1. Qualidade de Software
@@ -242,6 +251,13 @@ permalink: /teaching/
 <details>
   <summary> <b> </b> <i>(click para ver os outros semestres!)</i> </summary>
 
+  <br/>
+  <b>2022.2</b>
+    <ol>
+      <li>Engenharia de Software</li>
+      <li>Linguagem de Programação 1</li>
+      <li>Qualidade de Software</li>
+    </ol>
   <br/>
   <b>2022.1</b>
     <ol>
@@ -457,3 +473,6 @@ permalink: /teaching/
   1. Linguagem de Programação 2 -->
 
 </details>
+
+### Todas as aulas estão disponíveis no meu canal do YouTube:
+[![crescencio-lima](https://img.shields.io/badge/crescencio--lima-channel-green?colorA=ef5350&colorB=d32f2f&style=for-the-badge)](https://www.youtube.com/c/CrescencioLima/)

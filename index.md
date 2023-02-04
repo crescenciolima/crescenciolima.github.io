@@ -26,5 +26,19 @@ Check out my YouTube Channel:
 Check out my GitHub Page:
 [![crescencio-lima](https://img.shields.io/badge/crescencio--lima-github-black?colorA=808080&colorB=000000&style=for-the-badge)](https://www.github.com/crescenciolima)
 
-Check out the web site old version: 
-[![crescencio-lima](https://img.shields.io/badge/crescencio--lima-website-green?colorA=61c265&colorB=4CAF50&style=for-the-badge)](http://crescencio-lima.herokuapp.com)
+<!-- Check out the web site old version: 
+[![crescencio-lima](https://img.shields.io/badge/crescencio--lima-website-green?colorA=61c265&colorB=4CAF50&style=for-the-badge)](http://crescencio-lima.herokuapp.com) -->
+
+## Where to find me
+<a href="https://www.linkedin.com/in/crescenciolima/">
+  <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+</a>
+<a href="mailto:crescencio@ifba.edu.br">
+    <img src="svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
+</a>
+<a href="https://twitter.com/cretchas">
+  <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
+</a>
+<a href="http://instagram.com/cretchas/">
+  <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+</a>
