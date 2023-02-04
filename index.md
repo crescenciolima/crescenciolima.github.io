@@ -31,14 +31,14 @@ Check out my GitHub Page:
 
 ## Where to find me
 <a href="https://www.linkedin.com/in/crescenciolima/">
-  <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/crescenciolima/crescenciolima/raw/main/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
 </a>
 <a href="mailto:crescencio@ifba.edu.br">
-    <img src="svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/crescenciolima/crescenciolima/raw/main/svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
 </a>
 <a href="https://twitter.com/cretchas">
-  <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/crescenciolima/crescenciolima/raw/main/svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
 </a>
 <a href="http://instagram.com/cretchas/">
-  <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/crescenciolima/crescenciolima/raw/main/svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
 </a>
