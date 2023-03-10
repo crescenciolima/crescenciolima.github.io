@@ -16,6 +16,12 @@ I research about how to improve Software Engineering using empirical methods and
 * Continuous Integration (CI) and Continuous Delivery (CD)
 
 ## Possible projects
+
+1. Developing a Software Architecture for Autonomous Robotics Systems
+**Questions:** What are the main components necessary to compose an autonomous robotic systems? How to improve the existing architectures <br>
+**Skills:** natural language processing, web programming (e.g., JSON, Java, etc)<br>
+**Related work**: [Geovani], [Anderson].
+
 1. Mining Software Repositories of COVID-19<br>
 **Questions:** What are the main programming language of the projects? How many projects are available?<br>
 **Skills:** script programming (e.g., Python, pyDriller, etc)<br>
@@ -47,6 +53,7 @@ I research about how to improve Software Engineering using empirical methods and
 * Grupo de Inovação e Pesquisa em Compatibilidade Eletromagnética e Qualidade de Energia - [GIPCEM](http://dgp.cnpq.br/dgp/espelhogrupo/9223181441639201) 
 
 ## Partnerships
+* [Jose Alberto Diaz Amado](https://gipar.ifba.edu.br/jose/) (IFBA, Brazil)
 * [Fernando Kenji](https://fkenjikamei.github.io/) (IFAL, Brazil)
 * [Igor Wiese](http://igorwiese.com/) (UTFPR, Brazil)
 * [Ivan Machado](https://sites.google.com/view/ivanmachado) (UFBA, Brazil)
