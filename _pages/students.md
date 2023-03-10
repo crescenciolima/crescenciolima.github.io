@@ -17,6 +17,8 @@ I am continuously looking for good people to join my research group, at all leve
 - Augusto Cézar Meira Marinho Rocha (BSI)
 - Isaac de Jesus Silva (BSI)
 - Rodrigo Neves (BSI)
+- Giovane Fernandes Moreira (BSI)
+- Anderson Silva Leite (BSI)
 - You?
 
 ## Alumni (sorted by graduation year)
