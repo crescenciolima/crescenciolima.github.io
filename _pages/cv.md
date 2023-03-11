@@ -44,6 +44,9 @@ redirect_from:
 <a href="http://lattes.cnpq.br/9104143705992817">
   <img src="https://github.com/crescenciolima/crescenciolima/raw/main/svg/academic/lattes.svg" alt="lattes" style="vertical-align:top; margin:6px 4px">
 </a>
+<a href="https://www.linkedin.com/in/crescenciolima/">
+  <img src="https://github.com/crescenciolima/crescenciolima/raw/main/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+</a>
 <a href="https://orcid.org/0000-0002-0286-2056">
   <img src="https://github.com/crescenciolima/crescenciolima/raw/main/svg/academic/ORCID.svg" alt="orcid" style="vertical-align:top; margin:6px 4px">
 </a>
