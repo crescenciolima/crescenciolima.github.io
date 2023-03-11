@@ -19,7 +19,7 @@ redirect_from:
 -->
 
 ## Education
-* Ph.D in Computer Science, [UFBA](http://pgcomp.ufba.br/), 2019 
+* Ph.D. in Computer Science, [UFBA](http://pgcomp.ufba.br/), 2019 
 * M.S. in Computer Science, [UFPE](http://cin.ufpe.br/), 2011
 * B.S. in Computer Science, [UESB](http://www.uesb.br/computacao/), 2006
 
