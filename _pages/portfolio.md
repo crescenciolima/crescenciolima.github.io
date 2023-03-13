@@ -46,26 +46,25 @@ Este projeto teve como objetivo desenvolver faceshields para auxiliar no combate
 <details>
   <summary> <b> </b> <i>(click para ver os detalhes do projeto!)</i> </summary>
 
-  <a href="https://www.instagram.com/3dmaskmakers/"><img src="/images/mask_makers.png" alt="IFBA" style="height: 200px;"/></a><br>
+  <a href="https://www.instagram.com/3dmaskmakers/"><img src="/images/mask_makers.png" alt="IFBA" style="height: 300px;"/></a><br>
   <br/>
   <b>Links relacionados com o projeto</b>
     <ol>
       <li><a href="https://www.instagram.com/3dmaskmakers/">Instagram do projeto</a></li>
       <li><a href="https://portal.ifba.edu.br/conquista/noticias-2/ifba-participa-de-projeto-para-producao-de-mascaras-com-impressoras-3d">Reportagem portal IFBA</a></li>
       <li><a href="https://portal.ifba.edu.br/noticias/2020/campus-vitoria-da-conquista-inicia-producao-de-mascaras-com-impressoras-3d-para-o-combate-a-covid-19">Reportagem portal IFBA</a></li>
-
-      
     </ol>
  <b>Equipe Executora:</b>
     <ol>
       <li>Crescencio Lima (coordenador)</li> 
       <li>Jordean Amaro (discente)</li>  
-      <li><a href="https://www.instagram.com/p/B-X9OXYjpbu/">Parceiros:</a></li>
-        <li>Casa da Robótica (membro externo)</li>   
-        <li>Alfa Maker (membro externo)</li>   
-        <li>EC Infortech (membro externo)</li>   
-        <li>Universidade Estadual do Sudoeste da Bahia (membro externo)</li> 
-        <li>Print Hub (membro externo)</li>
-        <li>Zebim Comunicação (membro externo)</li>      
+      <li>Casa da Robótica (membro externo)</li>   
+      <li>Alfa Maker (membro externo)</li>   
+      <li>EC Infortech (membro externo)</li>   
+      <li>Universidade Estadual do Sudoeste da Bahia (membro externo)</li> 
+      <li>Print Hub (membro externo)</li>
+      <li>Zebim Comunicação (membro externo)</li>
+      <li><a href="https://www.instagram.com/p/B-X9OXYjpbu/">Todos os parceiros</a></li>
+    </ol>
   <br/>      
 </details>

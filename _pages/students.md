@@ -26,6 +26,7 @@ I am continuously looking for good people to join my research group, at all leve
 - Gabriel Almeida Dias (PGDW), 2022
 - Bem Hur Ganem Silva (PGDW), 2021
 - Letícia Porto Soares (PGDW), 2021
+- Jordean Firmino de Oliveira Amaro, 2020
 - Breno Antonivaldo Lessa Andrade (BSI, co-supervised with Djan Almeida Santos), 2016
 - Ícaro Ramires Costa de Souza, 2015
 - Wesley Silva Dias (BSI), 2014
