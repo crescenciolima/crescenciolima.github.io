@@ -13,7 +13,7 @@ https://www.instagram.com/3dfila_brasil/
 
 ## Revista TI Hoje
 
-<a href="https://www.youtube.com/@RevistaTIHoje/"><img src="/images/revista_ti.png" alt="IFBA" style="height: 100px;"/></a>
+<a href="https://www.youtube.com/@RevistaTIHoje/"><img src="/images/revista_ti.png" alt="IFBA" style="height: 200px;"/></a>
 
 A Revista TI Hoje é um projeto de extensão em parceria com o professor Liojes Carneiro (coordenador) que tem como objetivo desenvolver uma revista digital para aproximar os docentes e discentes dos cursos cursos técnico integrado e subsequente de Informática, Bacharelado em Sistemas de Informação e Pós Graduação Lato Senso em Desenvolvimento Web do Instituto Federal da Bahia campus Vitória da Conquista com a sociedade da região do Sudoeste da Bahia.
 
