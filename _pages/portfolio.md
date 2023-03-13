@@ -13,13 +13,30 @@ https://www.instagram.com/3dfila_brasil/
 
 ## Revista TI Hoje
 
-TBD.
+<a href="https://www.youtube.com/@RevistaTIHoje/"><img src="/images/revista_ti.png" alt="IFBA"/></a>
+
+A Revista TI Hoje é um projeto de extensão em parceria com o professor Liojes Carneiro (coordenador) que tem como objetivo desenvolver uma revista digital para aproximar os docentes e discentes dos cursos cursos técnico integrado e subsequente de Informática, Bacharelado em Sistemas de Informação e Pós Graduação Lato Senso em Desenvolvimento Web do Instituto Federal da Bahia campus Vitória da Conquista com a sociedade da região do Sudoeste da Bahia.
 
 <details>
-  <summary> <b> </b> <i>(click para ver os outros semestres!)</i> </summary>
-
-https://www.youtube.com/@RevistaTIHoje
-
+  <summary> <b> </b> <i>(click para ver os detalhes do projeto!)</i> </summary>
+  <b>Links do projeto:</b>
+    <ol>
+      <li><a href="https://www.youtube.com/@RevistaTIHoje">Canal no YouTube</a></li>
+      <li><a href="https://www.instagram.com/revistatihoje/">Instagram da Revista</a></li>
+    </ol>
+ <b>Equipe Executora:</b>
+    <ol>
+      <li>Liojes Carneiro (coordenador)</li>
+      <li>Crescencio Lima (docente)</li>
+      <li>Leonardo Campos (docente)</li>
+      <li>Cláudio Oliveira (docente)</li>
+      <li>Pablo Matos (docente)</li>
+      <li>Pablo Matos (docente)</li>
+      <li>Rafael Freire (discente)</li>
+      <li>Ricardo Silva (discente)</li>
+      <li>Flávio Porto (discente)</li>
+      <li>Danilo Lacerda (discente)</li>
+    </ol>
 </details>
 
 
@@ -28,7 +45,7 @@ https://www.youtube.com/@RevistaTIHoje
 TBD.
 
 <details>
-  <summary> <b> </b> <i>(click para ver os outros semestres!)</i> </summary>
+  <summary> <b> </b> <i>(click para ver os detalhes do projeto!)</i> </summary>
 
   <br/>
   <b>Links</b>
