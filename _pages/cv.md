@@ -40,6 +40,11 @@ redirect_from:
   * [C.E.S.A.R.](https://www.cesar.org.br)
   * Test Analyst
 
+## Coordenação da Pós-Graduação Lato Sensu em Desenvolvimento Web
+<a href="https://portal.ifba.edu.br/conquista/pos">
+  <img src="/images/posgrad.png" alt="pgdw">
+</a>
+
 ## More Information
 <a href="http://lattes.cnpq.br/9104143705992817">
   <img src="https://github.com/crescenciolima/crescenciolima/raw/main/svg/academic/lattes.svg" alt="lattes" style="vertical-align:top; margin:6px 4px">
