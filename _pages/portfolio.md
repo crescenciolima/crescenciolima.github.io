@@ -7,9 +7,13 @@ permalink: /portfolio/
 
 ## Projeto Parceria 3D Fila
 
-TBD.
+O projeto em parceria com a 3D Fila tem como objetivo desenvolver (modelar e imprimir) um conjunto de objetos em 3D para facilitar o ensino e o aprendizado de conceitos da Programação Orientada a Objetos (POO) como Arrays, Herança, Classes Abstratas, Polimorfismo, entre outros.
 
-https://www.instagram.com/3dfila_brasil/
+Apresentação do projeto: <a href="https://www.instagram.com/p/Cpk-rx7rse2/">Vídeo</a>  
+
+Instagram 3D Fila: <a href="https://www.instagram.com/3dfila_brasil/">https://www.instagram.com/3dfila_brasil/</a> 
+
+GITHUB do projeto: <a href="https://github.com/crescenciolima/Projeto_parceria_3D_Fila">https://github.com/crescenciolima/Projeto_parceria_3D_Fila</a>  
 
 ## Revista TI Hoje
 
