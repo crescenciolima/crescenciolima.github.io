@@ -42,7 +42,7 @@ redirect_from:
 
 ## Coordenação da Pós-Graduação Lato Sensu em Desenvolvimento Web
 <a href="https://portal.ifba.edu.br/conquista/pos">
-  <img src="/images/posgrad.png" alt="pgdw" style="height: 250px;">
+  <img src="/images/posgrad.png" alt="pgdw" style="height: 300px;">
 </a>
 
 ## More Information
