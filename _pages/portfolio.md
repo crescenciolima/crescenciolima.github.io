@@ -26,7 +26,7 @@ A Revista TI Hoje é um projeto de extensão em parceria com o professor Liojes 
 
 <details>
   <summary> <b> </b> <i>(click para ver os detalhes do projeto!)</i> </summary>
-  <a href="https://www.youtube.com/@RevistaTIHoje/"><img src="/images/revista_ti.png" alt="IFBA" style="height: 400px;"/></a><br>
+  <a href="https://www.youtube.com/@RevistaTIHoje/"><img src="/images/revista_ti.png" alt="IFBA" style="height: 350px;"/></a><br>
   <b>Links do projeto:</b>
     <ol>
       <li><a href="https://www.youtube.com/@RevistaTIHoje">Canal no YouTube</a></li>
