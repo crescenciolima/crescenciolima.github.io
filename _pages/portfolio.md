@@ -7,7 +7,7 @@ permalink: /portfolio/
 
 ## Projeto Parceria 3D Fila
 
-  <a href="https://www.youtube.com/@RevistaTIHoje/"><img src="/images/paceria_3d_fila.png" /></a><br>
+  <a href="https://github.com/crescenciolima/Projeto_parceria_3D_Fila"><img src="/images/parceria_3d_fila.png" /></a><br>
 
 O projeto em parceria com a 3D Fila tem como objetivo desenvolver (modelar e imprimir) um conjunto de objetos em 3D para facilitar o ensino e o aprendizado de conceitos da Programação Orientada a Objetos (POO) como Arrays, Herança, Classes Abstratas, Polimorfismo, entre outros.
 
