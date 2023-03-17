@@ -12,12 +12,15 @@ I research about how to improve Software Engineering using empirical methods and
 * Software Product Lines
 * Software Testing Automation
 * Recovering Software Architectures
+* Software Architecture for Autonomous Service Robotics Systems
 * Empirical methods 
 * Continuous Integration (CI) and Continuous Delivery (CD)
+* Human Factors in Computing Systems
+* Human-Computer Interaction
 
 ## Possible projects
 
-1. Developing a Software Architecture for Autonomous Robotics Systems<br>
+1. Developing a Software Architecture for Autonomous Service Robotics Systems<br>
 **Questions:** What are the main components necessary to compose an autonomous robotic systems? How to improve the existing architectures <br>
 **Skills:** natural language processing, web programming (e.g., JSON, Java, etc)<br>
 **Related work**: [Geovani], [Anderson].
