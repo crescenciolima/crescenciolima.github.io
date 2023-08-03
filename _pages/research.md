@@ -23,7 +23,7 @@ I research about how to improve Software Engineering using empirical methods and
 1. Developing a Software Architecture for Autonomous Service Robotics Systems<br>
 **Questions:** What are the main components necessary to compose an autonomous robotic systems? How to improve the existing architectures <br>
 **Skills:** natural language processing, web programming (e.g., JSON, Java, etc)<br>
-**Related work**: [Geovani], [Anderson].
+**Related work**: [Geovani], [Jonas].
 
 1. Mining Software Repositories of COVID-19<br>
 **Questions:** What are the main programming language of the projects? How many projects are available?<br>

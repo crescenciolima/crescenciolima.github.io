@@ -19,6 +19,18 @@ Instagram 3D Fila: <a href="https://www.instagram.com/3dfila_brasil/">https://ww
 
 Site da 3D Fila: <a href="https://3dfila.com.br/">https://3dfila.com.br/</a> 
 
+<details>
+  <summary> <b> </b> <i>(click para ver os detalhes do projeto!)</i> </summary>
+ <b>Equipe Executora:</b>
+    <ol>
+      <li>Crescencio Lima (Coordenador)</li>
+      <li>Giovane Fernandes Moreira (discente)</li>
+      <li>Filipe Soares Cancio (discente)</li>
+      <li>3D Fila (empresa parceira)</li>
+    </ol>
+</details>
+
+
 
 ## Revista TI Hoje
 
@@ -38,7 +50,6 @@ A Revista TI Hoje é um projeto de extensão em parceria com o professor Liojes 
       <li>Crescencio Lima (docente)</li>
       <li>Leonardo Campos (docente)</li>
       <li>Cláudio Oliveira (docente)</li>
-      <li>Pablo Matos (docente)</li>
       <li>Pablo Matos (docente)</li>
       <li>Rafael Freire (discente)</li>
       <li>Ricardo Silva (discente)</li>

@@ -14,15 +14,16 @@ I am continuously looking for good people to join my research group, at all leve
 
 ## Current students
 
-- Augusto Cézar Meira Marinho Rocha (BSI)
 - Isaac de Jesus Silva (BSI)
 - Rodrigo Neves (BSI)
 - Giovane Fernandes Moreira (BSI)
-- Anderson Silva Leite (BSI)
+- Jonas Machado Santana de Jesus (GIPAR)
+- Felipe Ferreira Rocha (BSI)
 - You?
 
 ## Alumni (sorted by graduation year)
 
+- Augusto Cézar Meira Marinho Rocha (BSI), 2023
 - Gabriel Almeida Dias (PGDW), 2022
 - Bem Hur Ganem Silva (PGDW), 2021
 - Letícia Porto Soares (PGDW), 2021
