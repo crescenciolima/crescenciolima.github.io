@@ -5,15 +5,23 @@ title: Teaching
 permalink: /teaching/
 ---
 
-### 2023.1
+### 2023.2
 1. Software Engineering
 1. Programing Language 1
 1. Software Quality
+1. Strategic Information Management
 
 <details>
   <summary>
     <i>(click to see the other semesters!)</i> 
   </summary>
+  <br/>
+  <b>2023.1</b>
+    <ol>
+      <li>Software Engineering</li>
+      <li>Programming Language 1</li>
+      <li>Software Quality</li>
+    </ol>
   <br/>
   <b>2022.2</b>
     <ol>
@@ -243,14 +251,21 @@ permalink: /teaching/
 
 ## <img src="/images/br_flag.png" alt="Portuguese version" style="height: 18px; width:18px;"/> Portuguese Version 
 
-### 2023.1
+### 2023.2
 1. Engenharia de Software
+1. Gestão Estratégica da Informação
 1. Linguagem de Programação 1
 1. Qualidade de Software
 
 <details>
   <summary> <b> </b> <i>(click para ver os outros semestres!)</i> </summary>
-
+  <br/>
+  <b>2023.1</b>
+    <ol>
+      <li>Engenharia de Software</li>
+      <li>Linguagem de Programação 1</li>
+      <li>Qualidade de Software</li>
+    </ol>
   <br/>
   <b>2022.2</b>
     <ol>
