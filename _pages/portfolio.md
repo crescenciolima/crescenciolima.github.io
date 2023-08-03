@@ -19,6 +19,14 @@ Instagram 3D Fila: <a href="https://www.instagram.com/3dfila_brasil/">https://ww
 
 Site da 3D Fila: <a href="https://3dfila.com.br/">https://3dfila.com.br/</a> 
 
+### Equipe Executora
+
+1. Crescencio Lima (Coordenador)
+1. Giovane Fernandes Moreira (discente)
+1. Filipe Soares Cancio (discente)
+1. 3D Fila (empresa parceira)
+
+<!--
 <details>
   <summary> <b> </b> <i>(click para ver os detalhes do projeto!)</i> </summary>
  <b>Equipe Executora:</b>
@@ -29,7 +37,7 @@ Site da 3D Fila: <a href="https://3dfila.com.br/">https://3dfila.com.br/</a>
       <li>3D Fila (empresa parceira)</li>
     </ol>
 </details>
-
+-->
 
 
 ## Revista TI Hoje
