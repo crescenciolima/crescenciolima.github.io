@@ -40,7 +40,7 @@ redirect_from:
   * [C.E.S.A.R.](https://www.cesar.org.br)
   * Test Analyst
 
-## Coordenação da Pós-Graduação Lato Sensu em Desenvolvimento Web
+## Vice Coordenação da Pós-Graduação Lato Sensu em Desenvolvimento Web
 <a href="https://portal.ifba.edu.br/conquista/pos">
   <img src="/images/posgrad.png" alt="pgdw" style="height: 300px;">
 </a>
