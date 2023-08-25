@@ -54,6 +54,7 @@ I research about how to improve Software Engineering using empirical methods and
 * [Sistemas de Hardware e Software](http://dgp.cnpq.br/dgp/espelhogrupo/6746371546732470)
 * Grupo de Inovação e Pesquisa em Automação e Robótica - [GIPAR](http://dgp.cnpq.br/dgp/espelhogrupo/2614433331383732)
 * Grupo de Inovação e Pesquisa em Compatibilidade Eletromagnética e Qualidade de Energia - [GIPCEM](http://dgp.cnpq.br/dgp/espelhogrupo/9223181441639201) 
+* [Manejo Integrado de Bacias Hidrográficas](http://dgp.cnpq.br/dgp/espelhogrupo/4004675122424528)
 
 ## Partnerships
 * [Jose Alberto Diaz Amado](https://gipar.ifba.edu.br/jose/) (IFBA, Brazil)
