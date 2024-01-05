@@ -26,7 +26,7 @@ author_profile: true
 
 ## 2023
 
-1. Heli Neres Silva, Emanuelle Gonçalves Paulino, José A. Diaz Amado, **Crescencio Lima**, "Proposal of a Multimodal Interactive Architecture Based on a Social Indoor and Outdoor Navigation System". LARS/SBR/WRE 2023: 397-402.<br/>
+1. Heli Neres Silva, Emanuelle Gonçalves Paulino, José A. Diaz Amado, **Crescencio Lima**, "[Proposal of a Multimodal Interactive Architecture Based on a Social Indoor and Outdoor Navigation System](https://doi.org/10.1109/LARS/SBR/WRE59448.2023.10332955)". LARS/SBR/WRE 2023: 397-402.<br/>
 
 1. **Crescencio Lima**,  Thelma Elita Colanzi, Matthias Galster, [Ivan Machado](http://ivanmachado.com.br/),  Edson OliveiraJr (2023). "[Software Product Line Architectures](https://doi.org/10.1007/978-3-031-18556-4_3)". Book chapter of the book UML-Based Software Product Line Engineering with SMarty. Springer. <br/>
 [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i>Link](https://doi.org/10.1007/978-3-031-18556-4_3)<br/>
