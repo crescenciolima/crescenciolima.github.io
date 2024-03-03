@@ -17,7 +17,7 @@ I am continuously looking for good people to join my research group, at all leve
 - Isaac de Jesus Silva (BSI)
 - Rodrigo Neves (BSI)
 - Giovane Fernandes Moreira (BSI)
-- Jonas Machado Santana de Jesus (GIPAR)
+- Jonas Machado Santana de Jesus (Undergraduate Research Project - Edital nº 03/2023/PRPGI/IFBA)
 - Felipe Ferreira Rocha (BSI)
 - You?
 
@@ -27,14 +27,14 @@ I am continuously looking for good people to join my research group, at all leve
 - Gabriel Almeida Dias (PGDW), 2022
 - Bem Hur Ganem Silva (PGDW), 2021
 - Letícia Porto Soares (PGDW), 2021
-- Jordean Firmino de Oliveira Amaro, 2020
+- Jordean Firmino de Oliveira Amaro (University Extension Program), 2020
 - Breno Antonivaldo Lessa Andrade (BSI, co-supervised with Djan Almeida Santos), 2016
-- Ícaro Ramires Costa de Souza, 2015
+- Ícaro Ramires Costa de Souza (Undergraduate Research Project), 2015
 - Wesley Silva Dias (BSI), 2014
-- Igo Romero Costa de Souza, 2014
-- Lucas Amparo Barbosa, 2013
-- Felipe Coqueiro de Oliveira, 2013
-- Maiane Salomão Carianha, 2013
+- Igo Romero Costa de Souza (Undergraduate Research Project), 2014
+- Lucas Amparo Barbosa (Undergraduate Research Project), 2013
+- Felipe Coqueiro de Oliveira (Undergraduate Research Project), 2013
+- Maiane Salomão Carianha (Undergraduate Research Project), 2013
 
 <!-- - Benito Fernandes (MS, co-supervised with [Fernando Castor](https://sites.google.com/a/cin.ufpe.br/castor/), UFPE), March 2017
 - [Bruno Cartaxo](https://sites.google.com/site/brunocartaxo/) (PhD, co-supervised with [Sergio Soares](http://www.cin.ufpe.br/~scbs/), UFPE), March 2018
