@@ -15,10 +15,14 @@ I am continuously looking for good people to join my research group, at all leve
 ## Current students
 
 - Isaac de Jesus Silva (BSI)
-- Rodrigo Neves (BSI)
+- Rodrigo Meira Neves (BSI)
 - Giovane Fernandes Moreira (BSI)
 - Jonas Machado Santana de Jesus (Undergraduate Research Project - Edital nº 03/2023/PRPGI/IFBA)
+- Lucas Almeida Pereira (Undergraduate Research Project - Edital nº Edital nº 06/2023/PRPGI)
+- Arthur da Silva Lemos (BSI)
 - Felipe Ferreira Rocha (BSI)
+- Marcos Vinicius Oliveira Silva (BSI)
+- Pedro Vitor Oliveira da Silva (BSI)
 - You?
 
 ## Alumni (sorted by graduation year)
@@ -27,7 +31,7 @@ I am continuously looking for good people to join my research group, at all leve
 - Gabriel Almeida Dias (PGDW), 2022
 - Bem Hur Ganem Silva (PGDW), 2021
 - Letícia Porto Soares (PGDW), 2021
-- Jordean Firmino de Oliveira Amaro (University Extension Program), 2020
+- Jordean Firmino de Oliveira Amaro (University Extension Program - Edital nº 01/2019 - PROEX/IFBA), 2020
 - Breno Antonivaldo Lessa Andrade (BSI, co-supervised with Djan Almeida Santos), 2016
 - Ícaro Ramires Costa de Souza (Undergraduate Research Project), 2015
 - Wesley Silva Dias (BSI), 2014
