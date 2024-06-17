@@ -18,7 +18,7 @@ I am continuously looking for good people to join my research group, at all leve
 - Rodrigo Meira Neves (BSI)
 - Giovane Fernandes Moreira (BSI)
 - Jonas Machado Santana de Jesus (Undergraduate Research Project - Edital nº 03/2023/PRPGI/IFBA)
-- Lucas Almeida Pereira (Undergraduate Research Project - Edital nº Edital nº 06/2023/PRPGI)
+- Lucas Almeida Pereira (Undergraduate Research Project - Edital nº 06/2023/PRPGI)
 - Arthur da Silva Lemos (BSI)
 - Felipe Ferreira Rocha (BSI)
 - Marcos Vinicius Oliveira Silva (BSI)
