@@ -23,7 +23,16 @@ I research about how to improve Software Engineering using empirical methods and
 1. Developing a Software Architecture for Autonomous Service Robotics Systems<br>
 **Questions:** What are the main components necessary to compose an autonomous robotic systems? How to improve the existing architectures <br>
 **Skills:** natural language processing, web programming (e.g., JSON, Java, etc)<br>
-**Related work**: [Geovani], [Jonas].
+**Related work**: [Geovani], [Jonas], [Deividson].
+
+1. Metaverso
+**Questions:** TBD
+**Skills:**
+**Related work**: [Alana], [Felipe], [Joao_Miguel], [Marco]
+
+1. IHM for Autonomous Service [Nara], [Smart Camaro]
+
+1. Inteligent city and IoT Smart Traffic Light
 
 1. Mining Software Repositories of COVID-19<br>
 **Questions:** What are the main programming language of the projects? How many projects are available?<br>
@@ -45,10 +54,10 @@ I research about how to improve Software Engineering using empirical methods and
 **Skills:** reading skills, script programming (e.g., Python, etc)<br>
 **Related work**: [<i class="fa fa-fw fa-file-pdf" aria-hidden="true"></i>Paper](https://www.iiis.org/cds2008/cd2008sci/MEI2008/PapersPdf/M205IP.pdf)<br/>
 
-1. Lay-offs in Software Engineering and Software Development industry due to COVID-19<br>
+<!-- 1. Lay-offs in Software Engineering and Software Development industry due to COVID-19<br>
 **Questions:** TBD.<br>
 **Skills:** reading skills<br>
-**Related work**: TBD.
+**Related work**: TBD. -->
 
 ## Research groups
 * [Sistemas de Hardware e Software](http://dgp.cnpq.br/dgp/espelhogrupo/6746371546732470)

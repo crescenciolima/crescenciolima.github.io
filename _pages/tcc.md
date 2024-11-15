@@ -7,7 +7,25 @@ permalink: /tcc/
 
 A seguir descrevo algumas orientações para os alunos de TCC.
 
-Importante definir um horário para encontro semanal para apresentar a evolução do projeto. 
+Importante definir um horário para encontro semanal/quinzenal para apresentar a evolução do projeto. 
+
+Priorizo o desenvolvimento de trabalhos associados aos projetos que estou desenvolvendo no momento. Veja o link dos projetos que estou desenvolvimento. Apresentação SHS.
+
+
+## Concepção da ideia
+ Se você ainda não tem ideia do que desenvolver, verique os projetos que estou desenvolvendo no momento em [research].
+
+ Material SEBRAE.
+ 1. Módulo 1 [link](https://drive.google.com/file/d/16UsN9Y3sohVlFRKEjGkecjgKdVbHa1aJ/view?usp=sharing)
+ 1. Módulo 2 [link] (https://drive.google.com/file/d/1-XVi_i0v8PJeURRUjSSTyO6Jck3fUnRC/view?usp=sharing)
+ 1. Design thinking [link]()
+ 1. protótipo
+ 1. Modelagem
+
+ ## TCC 1
+
+ ## TCC 2
+
 
 ## Leitura
 

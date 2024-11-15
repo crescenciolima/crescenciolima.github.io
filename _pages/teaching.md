@@ -5,16 +5,31 @@ title: Teaching
 permalink: /teaching/
 ---
 
-### 2023.2
+### 2024.1
 1. Software Engineering
-1. Programing Language 1
 1. Software Quality
-1. Strategic Information Management
+1. Agile Web Systems Development Process (PGDW) 
+1. Analysis and Design of Web Systems (PGDW)
 
 <details>
   <summary>
     <i>(click to see the other semesters!)</i> 
   </summary>
+  <br/>
+    <b>2024.1</b>
+    <ol>
+      <li>Software Engineering</li>
+      <li>Programming Language 1</li>
+      <li>Software Quality</li>
+      <li>Strategic Information Management</li>
+    </ol>
+  <b>2023.2</b>
+    <ol>
+      <li>Software Engineering</li>
+      <li>Programming Language 1</li>
+      <li>Software Quality</li>
+      <li>Strategic Information Management</li>
+    </ol>
   <br/>
   <b>2023.1</b>
     <ol>
@@ -251,14 +266,30 @@ permalink: /teaching/
 
 ## <img src="/images/br_flag.png" alt="Portuguese version" style="height: 18px; width:18px;"/> Portuguese Version 
 
-### 2023.2
+### 2024.2
 1. Engenharia de Software
-1. Gestão Estratégica da Informação
-1. Linguagem de Programação 1
 1. Qualidade de Software
+1. Análise e Projeto de Sistemas Web (PGDW)
+1. Processo de Desenvolvimento Ágil de Sistemas Web (PGDW)
 
 <details>
   <summary> <b> </b> <i>(click para ver os outros semestres!)</i> </summary>
+  <br/>
+  <b>2024.1</b>
+    <ol>
+      <li>Engenharia de Software</li>
+      <li>Gestão Estratégica da Informação</li>
+      <li>Linguagem de Programação 1</li>
+      <li>Qualidade de Software</li>
+    </ol>
+  <br/>
+  <b>2023.2</b>
+    <ol>
+      <li>Engenharia de Software</li>
+      <li>Gestão Estratégica da Informação</li>
+      <li>Linguagem de Programação 1</li>
+      <li>Qualidade de Software</li>
+    </ol>
   <br/>
   <b>2023.1</b>
     <ol>
@@ -315,7 +346,7 @@ permalink: /teaching/
       <li>Gestão e Avaliação de Sistemas</li>
       <li>Interface Homem-Máquina</li>
       <li>Linguagem de Programação 1</li>
-      <li>Analysis and Design of Web Systems (PGDW)</li>
+      <li>Análise e Projeto de Sistemas Web (PGDW)</li>
     </ol>
   <br/>
   <b>2019.1</b>

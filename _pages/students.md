@@ -14,19 +14,33 @@ I am continuously looking for good people to join my research group, at all leve
 
 ## Current students
 
-- Isaac de Jesus Silva (BSI)
+<!-- Isaac de Jesus Silva (BSI) -->
 - Rodrigo Meira Neves (BSI)
 - Giovane Fernandes Moreira (BSI)
-- Jonas Machado Santana de Jesus (Undergraduate Research Project - Edital nº 03/2023/PRPGI/IFBA)
-- Lucas Almeida Pereira (Undergraduate Research Project - Edital nº 06/2023/PRPGI)
 - Arthur da Silva Lemos (BSI)
 - Felipe Ferreira Rocha (BSI)
-- Marcos Vinicius Oliveira Silva (BSI)
 - Pedro Vitor Oliveira da Silva (BSI)
+
+- Brendo Gomes Prates (BSI) <!-- 3D objects to teach POO concepts -->
+- Fabrício Pereira da Silva (BSI) <!-- system to support CH student -->
+- Kaik Ferreira Bomfim (BSI) <!-- chatbot for aliviate developers stress -->
+- Lucas Villares Barreto (BSI) <!-- app for support certificate system -->
+<!-- Lucas Vieira (BSI) -->
+
+- João Miguel Ferraz Barreto (Undergraduate Research Project - Edital nº 009/2023/FAPESB) <!-- (Metaverso) - Performance -->
+- Deividson Ribeiro Silva (Undergraduate Research Project - Edital nº 01/2024/PRPGI)
+- Luiz Filipe Ribeiro de Jesus (Undergraduate Research Project - Edital nº 04/2024/PRPGI)
+
 - You?
 
 ## Alumni (sorted by graduation year)
 
+- Alana Agne Brandão Rocha (Undergraduate Research Project - Edital nº 009/2023/FAPESB), 2024 <!-- Education in Informatics -->
+- Felipe Lacerda Brito (Undergraduate Research Project - Edital nº 009/2023/FAPESB), 2024 <!-- Tests -->
+- Marco Antonio Barbosa Pereira (Undergraduate Research Project - Edital nº 009/2023/FAPESB),2024 <!-- UX -->
+- Marcos Vinicius Oliveira Silva (BSI), 2024
+- Jonas Machado Santana de Jesus (Undergraduate Research Project - Edital nº 03/2023/PRPGI/IFBA)
+- Lucas Almeida Pereira (Undergraduate Research Project - Edital nº 06/2023/PRPGI)
 - Augusto Cézar Meira Marinho Rocha (BSI), 2023
 - Gabriel Almeida Dias (PGDW), 2022
 - Bem Hur Ganem Silva (PGDW), 2021
