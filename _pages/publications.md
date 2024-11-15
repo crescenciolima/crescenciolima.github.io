@@ -24,6 +24,11 @@ author_profile: true
 {% endfor %}
 -->
 
+## 2024
+
+1. Fábio Almeida Leite, Edmundo Lopes-Silva, José A. Diaz Amado, **Crescencio Lima**, Cleia Santos-Libarino, Pedro Núñez Trujillo, João Erivando Marques,
+"[A Robocentric Paradigm for Enhanced Social Navigation in Autonomous Robotic: a use case for an autonomous Wheelchair](https://doi.org/10.1109/ICARSC61747.2024.10535955)". ICARSC 2024: 112-119.<br/>
+
 ## 2023
 
 1. Heli Neres Silva, Emanuelle Gonçalves Paulino, José A. Diaz Amado, **Crescencio Lima**, "[Proposal of a Multimodal Interactive Architecture Based on a Social Indoor and Outdoor Navigation System](https://doi.org/10.1109/LARS/SBR/WRE59448.2023.10332955)". LARS/SBR/WRE 2023: 397-402.<br/>

@@ -39,8 +39,8 @@ I am continuously looking for good people to join my research group, at all leve
 - Felipe Lacerda Brito (Undergraduate Research Project - Edital nº 009/2023/FAPESB), 2024 <!-- Tests -->
 - Marco Antonio Barbosa Pereira (Undergraduate Research Project - Edital nº 009/2023/FAPESB),2024 <!-- UX -->
 - Marcos Vinicius Oliveira Silva (BSI), 2024
-- Jonas Machado Santana de Jesus (Undergraduate Research Project - Edital nº 03/2023/PRPGI/IFBA)
-- Lucas Almeida Pereira (Undergraduate Research Project - Edital nº 06/2023/PRPGI)
+- Jonas Machado Santana de Jesus (Undergraduate Research Project - Edital nº 03/2023/PRPGI/IFBA), 2024
+- Lucas Almeida Pereira (Undergraduate Research Project - Edital nº 06/2023/PRPGI), 2024
 - Augusto Cézar Meira Marinho Rocha (BSI), 2023
 - Gabriel Almeida Dias (PGDW), 2022
 - Bem Hur Ganem Silva (PGDW), 2021
