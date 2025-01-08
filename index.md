@@ -43,6 +43,6 @@ Check out my GitHub Page:
 <a href="https://twitter.com/cretchas">
   <img src="https://github.com/crescenciolima/crescenciolima/raw/main/svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
 </a>
-<a href="http://instagram.com/cretchas/">
+<a href="http://instagram.com/crescenciolima/">
   <img src="https://github.com/crescenciolima/crescenciolima/raw/main/svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
 </a>

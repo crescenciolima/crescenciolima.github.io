@@ -5,7 +5,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-## Portifóliio Integra IFBA
+## Integra IFBA
 
 <a href="https://integra.ifba.edu.br/p/crescencio-rodrigues-lima-neto"><img src="/images/integra_ifba.png" /></a><br>
 
