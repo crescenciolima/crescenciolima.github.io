@@ -5,7 +5,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-### 2024.1
+### 2024.2
 1. Software Engineering
 1. Software Quality
 1. Agile Web Systems Development Process (PGDW) 

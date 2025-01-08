@@ -27,8 +27,11 @@ I am continuously looking for good people to join my research group, at all leve
 - Lucas Villares Barreto (BSI) <!-- app for support certificate system -->
 <!-- Lucas Vieira (BSI) -->
 
-- João Miguel Ferraz Barreto (Undergraduate Research Project - Edital nº 009/2023/FAPESB) <!-- (Metaverso) - Performance -->
 - Deividson Ribeiro Silva (Undergraduate Research Project - Edital nº 01/2024/PRPGI)
+- Érica Meire Prates Ferreira (Undergraduate Research Project - Edital nº 009/2023/FAPESB), 2024
+- João Miguel Ferraz Barreto (Undergraduate Research Project - Edital nº 009/2023/FAPESB) <!-- (Metaverso) - Performance -->
+- João Vitor Sigliani Azevedo (Undergraduate Research Project - Edital nº 009/2023/FAPESB), 2024
+- Gustavo Freitas Rodrigues (Undergraduate Research Project - Edital nº 009/2023/FAPESB), 2024
 - Luiz Filipe Ribeiro de Jesus (Undergraduate Research Project - Edital nº 04/2024/PRPGI)
 
 - You?

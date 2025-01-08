@@ -5,6 +5,13 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
+## Portifóliio Integra IFBA
+
+<a href="https://integra.ifba.edu.br/p/crescencio-rodrigues-lima-neto"><img src="/images/integra_ifba.png" /></a><br>
+
+O Portal da Inovação do IFBA (INTEGRA) que possui o objetivo de estimular a execução de projetos de pesquisa, desenvolvimento tecnológico e inovação em parceria com organizações públicas e privadas para atender às demandas dos arranjos produtivos, sociais e culturais.
+
+
 ## Projeto Parceria 3D Fila
 
   <a href="https://github.com/crescenciolima/Projeto_parceria_3D_Fila"><img src="/images/parceria_3d_fila.png" /></a><br>
