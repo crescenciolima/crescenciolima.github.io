@@ -24,6 +24,10 @@ author_profile: true
 {% endfor %}
 -->
 
+## 2025
+
+1. Jonas Machado Santana, Bruno Duarte Silveira, **Crescencio Lima**, Jose Diaz-Amado, Cléia Santos Libarino, Joao E. Soares Marques, Dennis Barrios-Aranibar, and Raquel E. Patiño-Escarcina. 2025. "[Design and Implementation of an Interactive System for Service Robot Control and Monitoring](https://doi.org/10.3390/s25040987)" Sensors 25, no. 4: 987. <br/>
+
 ## 2024
 
 1. Fábio Almeida Leite, Edmundo Lopes-Silva, José A. Diaz Amado, **Crescencio Lima**, Cleia Santos-Libarino, Pedro Núñez Trujillo, João Erivando Marques,

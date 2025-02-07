@@ -17,10 +17,12 @@ Priorizo o desenvolvimento de trabalhos associados aos projetos que estou desenv
 
  Material SEBRAE.
  1. Módulo 1 [link](https://drive.google.com/file/d/16UsN9Y3sohVlFRKEjGkecjgKdVbHa1aJ/view?usp=sharing)
- 1. Módulo 2 [link] (https://drive.google.com/file/d/1-XVi_i0v8PJeURRUjSSTyO6Jck3fUnRC/view?usp=sharing)
+ 1. Módulo 2 [link](https://drive.google.com/file/d/1-XVi_i0v8PJeURRUjSSTyO6Jck3fUnRC/view?usp=sharing)
  1. Design thinking [link]()
  1. protótipo
  1. Modelagem
+
+ 
 
  ## TCC 1
 
