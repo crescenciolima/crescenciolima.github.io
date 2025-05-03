@@ -15,17 +15,20 @@ I am continuously looking for good people to join my research group, at all leve
 ## Current students
 
 <!-- Isaac de Jesus Silva (BSI) -->
-- Rodrigo Meira Neves (BSI)
-- Giovane Fernandes Moreira (BSI)
-- Arthur da Silva Lemos (BSI)
-- Felipe Ferreira Rocha (BSI)
-- Pedro Vitor Oliveira da Silva (BSI)
+- Giovane Fernandes Moreira (BSI) <!-- Architecture for autonomous Service robots -->
+- Arthur da Silva Lemos (BSI) <!-- case study on hospital de base -->
+- Felipe Ferreira Rocha (BSI) <!-- case study on BemMaker -->
 
 - Brendo Gomes Prates (BSI) <!-- 3D objects to teach POO concepts -->
 - Fabrício Pereira da Silva (BSI) <!-- system to support CH student -->
 - Kaik Ferreira Bomfim (BSI) <!-- chatbot for aliviate developers stress -->
 - Lucas Villares Barreto (BSI) <!-- app for support certificate system -->
 <!-- Lucas Vieira (BSI) -->
+
+- Fabrício Eller Sousa de Lima (BSI) <!-- LLM in PLA recovery -->
+- Gabriel Silva Morais (BSI) <!-- case study on company -->
+- Hemerson Oliveira Silva (BSI) <!-- case study on boleto for company-->
+- Rafaela Dias dos Santos (BSI) <!-- Criative economy -->
 
 - Deividson Ribeiro Silva (Undergraduate Research Project - Edital nº 01/2024/PRPGI)
 - Érica Meire Prates Ferreira (Undergraduate Research Project - Edital nº 009/2023/FAPESB), 2024
@@ -38,6 +41,8 @@ I am continuously looking for good people to join my research group, at all leve
 
 ## Alumni (sorted by graduation year)
 
+- Pedro Vitor Oliveira da Silva (BSI), 2025
+- Rodrigo Meira Neves (BSI), 2025
 - Alana Agne Brandão Rocha (Undergraduate Research Project - Edital nº 009/2023/FAPESB), 2024 <!-- Education in Informatics -->
 - Felipe Lacerda Brito (Undergraduate Research Project - Edital nº 009/2023/FAPESB), 2024 <!-- Tests -->
 - Marco Antonio Barbosa Pereira (Undergraduate Research Project - Edital nº 009/2023/FAPESB),2024 <!-- UX -->
