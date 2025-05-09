@@ -5,11 +5,10 @@ title: Teaching
 permalink: /teaching/
 ---
 
-### 2024.2
+### 2025.1
 1. Software Engineering
+1. Programming Languages Paradigms
 1. Software Quality
-1. Agile Web Systems Development Process (PGDW) 
-1. Analysis and Design of Web Systems (PGDW)
 
 <details>
   <summary>
