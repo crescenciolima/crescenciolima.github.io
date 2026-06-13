@@ -6,7 +6,7 @@ permalink: /
 ---
 <!-- <img src="/images/us_flag.png" alt="English version" style="height: 18px; width:18px;"/> English Version -->
 
-I am a Professor at the Computer Department of the Federal Institute of Bahia campus Vitória da Conquista [(IFBA)](http://portal.ifba.edu.br/conquista), Brazil. I do research in the broad area of Software Engineering (SE). I teach Programming Languages and SE at the BSc level. Moreover, I am the coordinator of the Postgraduate course on web development [(PGDW)](http://portal.ifba.edu.br/conquista/pos).
+I am a Professor at the Computer Department of the Federal Institute of Bahia campus Vitória da Conquista [(IFBA)](http://portal.ifba.edu.br/conquista), Brazil. I do research in the broad area of Software Engineering (SE). I teach Programming Languages and SE at the BSc level. Moreover, I am the vice-coordinator of the Postgraduate course on web development [(PGDW)](http://portal.ifba.edu.br/conquista/pos).
 
 <a href="http://portal.ifba.edu.br/conquista/"><img src="/images/IFBA_HORIZONTAL_completa.png" alt="IFBA"/></a>
 
@@ -16,7 +16,7 @@ I received my Ph.D. on Computer Science from the Federal University of Bahia [(U
 ## <img src="/images/br_flag.png" alt="Portuguese version" style="height: 18px; width:18px;"/> Portuguese Version 
 
 Eu sou professor do Departamento de Computação do 
-Instituto Federal da Bahia campus Vitória da Conquista [(IFBA)](http://portal.ifba.edu.br/conquista), Brasil. Eu desenvolvo pesquisa em Engenharia de Software (SE). Eu leciono disciplinas de Linguagens de Programação e SE no curso de Bacharelado em Sistemas de Informação. Além disso, Eu sou o coordenador da pós graduação Lato Sensu em Desenvolvimento Web [(PGDW)](http://portal.ifba.edu.br/conquista/pos).
+Instituto Federal da Bahia campus Vitória da Conquista [(IFBA)](http://portal.ifba.edu.br/conquista), Brasil. Eu desenvolvo pesquisa em Engenharia de Software (SE). Eu leciono disciplinas de Linguagens de Programação e SE no curso de Bacharelado em Sistemas de Informação. Além disso, Eu sou o vice-coordenador da pós graduação Lato Sensu em Desenvolvimento Web [(PGDW)](http://portal.ifba.edu.br/conquista/pos).
 
 <a href="http://portal.ifba.edu.br/conquista/"><img src="/images/IFBA_HORIZONTAL_completa.png" alt="IFBA"/></a>
 

@@ -29,6 +29,14 @@ redirect_from:
   * Federal Institute of Bahia ([IFBA](http://portal.ifba.edu.br))
   * Associate Professor and Researcher
 
+* 2025 - Present:
+  * Graduate Program in Systems and Products Engineering (PPGESP), SENAI CIMATEC
+  * Collaborating Professor (Professional Master's)
+
+* 2023 - Present:
+  * Postgraduate course in Web Development ([PGDW](https://portal.ifba.edu.br/conquista/pos)), IFBA
+  * Vice-coordinator (Coordinator from 2019 to 2023)
+
 * 2010 - 2011: 
   * [UNIFACOL](http://unifacol.edu.br)
   * Assistant Professor
@@ -40,6 +48,33 @@ redirect_from:
 * 2006 - 2009:
   * [C.E.S.A.R.](https://www.cesar.org.br)
   * Test Analyst
+
+## Awards and honors
+* **ICSR 2017 Doctoral Dissertation Award**, 16th International Conference on Software Reuse, 2017
+* First and Second LatAm School in Software Engineering, ACM SIGSOFT, 2021 & 2022
+* Top 5 paper, XII Brazilian Symposium on Components, Architectures and Reuse (SBCARS), 2018
+* Third place, III PGCOMP Students Workshop (WE.PGCOMP), 2018
+* ICSE 2017 Travel Grant, SIGSOFT CAPS, 2017
+* Third place, Thesis and Dissertation Contest on Software Quality (CTDQS, Master's), XI SBQS, 2012
+* Travel Grants for Collaborative Teaching of Globally Distributed Software Development, University of Oregon, 2012 & 2013
+
+## Professional service
+**Journal reviewer:** Information and Software Technology, Empirical Software Engineering, Journal of Software Engineering Research and Development, Science of Computer Programming, and Software and Systems Modeling.
+
+**Program committee member** (recent): Brazilian Symposium on Software Engineering (SBES — Education, Tools, and Emerging Results tracks), Brazilian Symposium on Software Quality (SBQS), ICSE SE-in-Practice (SEIP) 2026, Brazilian Symposium on Information Systems (SBSI), and ENCompIF.
+
+Member of the Brazilian Computer Society (SBC) since 2006.
+
+## Current research projects
+* **INCITE Indústria 4.0 / Immersive and Additive UX** — frontier technologies for Industry 4.0 (FAPESB)
+* **SI2** — Institute of Science, Technology and Innovation for Secure, Intelligent and Data-Intensive Systems
+* **Vitória da Resistência** — educational metaverse of the 1823 Battle of Itaparica (FAPESB)
+* **Smart traffic-light system** for intelligent cities (coordinator)
+* **IoT and hydrological modeling** for urban drainage management in Vitória da Conquista
+* **Human-Computer Interaction** for autonomous service robots (PIBIC)
+
+## Patents
+* **CodeVital** (2025) — software registered at INPI (BR512025006550-7)
 
 ## Vice Coordenação da Pós-Graduação Lato Sensu em Desenvolvimento Web
 <a href="https://portal.ifba.edu.br/conquista/pos">
