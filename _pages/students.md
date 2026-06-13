@@ -8,11 +8,13 @@ permalink: /students/
 
 I am continuously looking for good people to join my research group, at all levels: undergraduate students, M.S students, Ph.D. students, Postdocs, or research programmers. 
 
-<!-- Read more [here](/pos-graduacao) if interested.
+Thinking about doing research with me? Read more [here](/pos-graduacao/) before getting in touch.
 
-**UPDATE**: I recently accepted a position in the industry, so my time became even scarser. If you _really_ want to work with me, please make sure you can conduct most your work independently. -->
+Estou sempre em busca de boas pessoas para integrar meu grupo de pesquisa, em todos os níveis: estudantes de graduação, mestrado, doutorado, pós-doutorado ou programadores de pesquisa.
 
-## Current students
+Pensando em fazer pesquisa comigo? Leia mais [aqui](/pos-graduacao/) antes de entrar em contato.
+
+## Current students / Estudantes atuais
 
 <!-- Isaac de Jesus Silva (BSI) -->
 - Giovane Fernandes Moreira (BSI) <!-- Architecture for autonomous Service robots -->
