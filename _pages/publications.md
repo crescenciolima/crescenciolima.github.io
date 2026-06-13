@@ -24,9 +24,33 @@ author_profile: true
 {% endfor %}
 -->
 
+## 2026
+
+1. Mário C. O. Spinelli, Salomão S. Batista, Polyane A. Santos, Kenedy Marconi G. Santos, **Crescencio Lima**, Elvio P. Silva, Leonardo S. Caires, Ronaldo M. Lima, Amélia M. Santos, Sergio M. O. Tavares, Rui A. S. Moreira, Décio R. M. Faria, José A. Diaz Amado, João E. S. Marques, Luiz G. M. Souza. 2026. "[Mechanical and Thermal Characterization of Sustainable Polyester Composites Reinforced with Mill Scale](https://doi.org/10.3390/ndt4010004)". NDT 4, no. 1: 4.<br/>
+
+1. **Crescencio Lima**, Bem Hur Ganem Silva, Letícia Porto Soares. 2026. "[Sistema de informação open-source para auxiliar no gerenciamento de processos seletivos](https://doi.org/10.22481/recic.v8i1.18372)". Revista de Ciência da Computação 8, no. 1: e18372.<br/>
+
+1. Danilo Guimarães Souza Azevedo, Melques Santos Paiva, Ana Kessilly Chiachio Cerqueira, **Crescencio Lima**, Djan Almeida Santos, Luis Paulo da Silva Carvalho. 2026. "[Julgamento Automatizado de Agentes Conversacionais: Usando LLM-as-a-Judge para avaliar um software baseado em Inteligência Artificial para o Ensino de Computação](https://doi.org/10.5753/sbsi_estendido.2026.249124)". Anais Estendidos do XXII Simpósio Brasileiro de Sistemas de Informação (SBSI 2026): 358-370.<br/>
+
+1. Ana Kessilly Chiachio Cerqueira, Melques Santos Paiva, Danilo Guimarães Souza Azevedo, Djan Almeida Santos, **Crescencio Lima**, Luis Paulo da Silva Carvalho. 2026. "[Utilizando o Coeficiente de Concordância de Kappa para Avaliar uma Análise de Sentimentos apoiada por IA](https://doi.org/10.5753/sbsi_estendido.2026.249091)". Anais Estendidos do XXII Simpósio Brasileiro de Sistemas de Informação (SBSI 2026): 307-319.<br/>
+
+1. Pedro Vitor Oliveira da Silva, **Crescencio Lima**, José Alberto Diaz Amado, João Erivando Soares Marques, Cléia Libarino, Luis Alves Correia Filho, Kenedy Marconi Geraldo Santos. 2026. "[Aplicando Business Intelligence no contexto de sistemas de serviços autônomos](https://doi.org/10.31560/pimentacultural/978-85-7221-627-2.10)". Book chapter of Competências do Amanhã: pesquisa e prática com tecnologias imersivas, aditivas e de fronteira na Indústria 4.0 e além. Pimenta Cultural.<br/>
+
+1. Allan França Dutra, **Crescencio Lima**, José Alberto Diaz Amado, João Erivando Soares Marques, Cléia Libarino, Luis Alves Correia Filho, Kenedy Marconi Geraldo Santos. 2026. "[Desenvolvimento de um sistema de controle remoto para um robô seguidor de linha](https://doi.org/10.31560/pimentacultural/978-85-7221-627-2.11)". Book chapter of Competências do Amanhã: pesquisa e prática com tecnologias imersivas, aditivas e de fronteira na Indústria 4.0 e além. Pimenta Cultural.<br/>
+
+1. Caio Alves da Cruz Andrade, José Alberto Diaz Amado, **Crescencio Lima**, João Erivando Soares Marques, Cléia Libarino, Luis Alves Correia Filho, Kenedy Marconi Geraldo Santos. 2026. "[Implementação de um sistema de reconhecimento de alfabeto em Libras baseado em landmarks e redes neurais artificiais](https://doi.org/10.31560/pimentacultural/978-85-7221-627-2.12)". Book chapter of Competências do Amanhã: pesquisa e prática com tecnologias imersivas, aditivas e de fronteira na Indústria 4.0 e além. Pimenta Cultural.<br/>
+
 ## 2025
 
 1. Jonas Machado Santana, Bruno Duarte Silveira, **Crescencio Lima**, Jose Diaz-Amado, Cléia Santos Libarino, Joao E. Soares Marques, Dennis Barrios-Aranibar, and Raquel E. Patiño-Escarcina. 2025. "[Design and Implementation of an Interactive System for Service Robot Control and Monitoring](https://doi.org/10.3390/s25040987)" Sensors 25, no. 4: 987. <br/>
+
+1. Kenedy Marconi G. Santos, Lucas S. Ribeiro, Marcelo B. Perotoni, José Alberto Diaz Amado, **Crescencio Lima**, Tagleorge M. Silveira. 2025. "[Computational Modeling of a Microstrip Antenna and Measurements with a Nano VNA](https://doi.org/10.1109/WAI67900.2025.11309324)". 2025 International Workshop on Advanced Interconnects (WAI): 1-3.<br/>
+
+1. Marcelo B. Perotoni, Tagleorge M. Silveira, Kenedy Marconi G. Santos, José Alberto Diaz Amado, **Crescencio Lima**, Lucas S. Ribeiro. 2025. "[CPW Antenna for Satellite Earth Mapping and Radiolocation Systems](https://doi.org/10.1109/WAI67900.2025.11309280)". 2025 International Workshop on Advanced Interconnects (WAI): 1-3.<br/>
+
+1. Erica Ferreira, Beatriz Oliveira, Carina Silveira, France Arnaut, **Crescencio Lima**, Andrea Machado, José Amado, Juliendrios Oliveira. 2025. "[A gamificação como estratégia de memorabilidade em prol da aprendizagem](https://doi.org/10.5753/sbgames.2025.10179)". Anais do XXIV Simpósio Brasileiro de Jogos e Entretenimento Digital (SBGames 2025): 1637-1647.<br/>
+
+1. João Augusto Coêlho Chagas, José Alberto Díaz Amado, **Crescencio Lima**, Cléia Santos Libarino, João Soares. 2025. "[Processo imersivo de treinamento com Unreal Engine: impressoras 3D](https://doi.org/10.31560/pimentacultural/978-85-7221-423-0.2)". Book chapter of Competências do Amanhã: Explorando os Horizontes da Computação. Pimenta Cultural.<br/>
 
 ## 2024
 
