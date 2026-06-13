@@ -16,36 +16,47 @@ I am continuously looking for good people to join my research group, at all leve
 
 <!-- Isaac de Jesus Silva (BSI) -->
 - Giovane Fernandes Moreira (BSI) <!-- Architecture for autonomous Service robots -->
-- Arthur da Silva Lemos (BSI) <!-- case study on hospital de base -->
-- Felipe Ferreira Rocha (BSI) <!-- case study on BemMaker -->
 
-- Brendo Gomes Prates (BSI) <!-- 3D objects to teach POO concepts -->
-- Fabrício Pereira da Silva (BSI) <!-- system to support CH student -->
-- Kaik Ferreira Bomfim (BSI) <!-- chatbot for aliviate developers stress -->
 - Lucas Villares Barreto (BSI) <!-- app for support certificate system -->
 <!-- Lucas Vieira (BSI) -->
 
 - Fabrício Eller Sousa de Lima (BSI) <!-- LLM in PLA recovery -->
 - Gabriel Silva Morais (BSI) <!-- case study on company -->
-- Hemerson Oliveira Silva (BSI) <!-- case study on boleto for company-->
+
 - Rafaela Dias dos Santos (BSI) <!-- Criative economy -->
 
-- Deividson Ribeiro Silva (Undergraduate Research Project - Edital nº 01/2024/PRPGI)
-- Érica Meire Prates Ferreira (Undergraduate Research Project - Edital nº 009/2023/FAPESB), 2024
-- João Miguel Ferraz Barreto (Undergraduate Research Project - Edital nº 009/2023/FAPESB) <!-- (Metaverso) - Performance -->
-- João Vitor Sigliani Azevedo (Undergraduate Research Project - Edital nº 009/2023/FAPESB), 2024
-- Gustavo Freitas Rodrigues (Undergraduate Research Project - Edital nº 009/2023/FAPESB), 2024
-- Luiz Filipe Ribeiro de Jesus (Undergraduate Research Project - Edital nº 04/2024/PRPGI)
+- Luiz Carlos Pereira Caetité (BSI) <!-- components and equipment control system -->
+- João Vitor Lemos Oliveira (BSI) <!-- React system for SURTE radio/TV -->
+- Leonardo Vilasboas de Oliveira (BSI) <!-- backend for autonomous systems control/monitoring -->
+- Pedro Felipe Lobo Correia e Silva (BSI) <!-- test automation in CI/CD -->
+- Caio Sidarta Maia Lima Almeida (BSI) <!-- hospital nutritional management system -->
+- Ana Júlia Santos Alves Pereira (BSI) <!-- BSI coordination process mapping -->
+- Gustavo Meira Marinho da Rocha (BSI) <!-- voice assistants for user stories -->
+- Roberto Souza Cardoso (BSI) <!-- web system for coffee-drying greenhouse -->
+
+- David Manhães Magalhães (Undergraduate Research Project - Edital 05/2025/PRPGI/IFBA - FAPESB) <!-- HCI for autonomous systems -->
+- Guilherme Prado Silva (Undergraduate Research Project - Edital 08/2025/PRPGI/IFBA -CNPq) <!-- gamified metaverse, Battle of Itaparica -->
+- José Victor Rodrigues Marques (Undergraduate Research Project - Edital 10/2025/PRPGI/IFBA) <!-- chess game, Battle of Itaparica -->
+- Lucas de Carvalho Costa (Undergraduate Research Project - Edital 07/2025/PRPGI/IFBA - CNPq) <!-- educational game, Maria Felipa -->
+- Leandro Argolo Rodrigues (Undergraduate Research Project - Edital 09/2025/PRPGI/IFBA) <!-- immersive tech and gamification, Independence of Bahia -->
 
 - You?
 
 ## Alumni (sorted by graduation year)
 
+- Marco Antonio Santos Silva (PGDW), 2026 <!-- homomorphic vs AES-256 crypto in web grading system -->
+- Walber de Almeida Amorim (PGDW), 2026 <!-- AI web system for safe use of medicinal plants in SUS -->
+- Arthur da Silva Lemos (BSI), 2026 <!-- case study on hospital de base -->
+- Brendo Gomes Prates (BSI), 2025 <!-- 3D objects to teach POO concepts -->
+- Kaik Ferreira Bomfim (BSI), 2025 <!-- chatbot for aliviate developers stress -->
+- Fabrício Pereira da Silva (BSI), 2025 <!-- system to support CH student -->
+- Hemerson Oliveira Silva (BSI), 2025 <!-- case study on boleto for company-->
+- Sidnelson Gubert (BSI), 2025 <!-- digital transformation in poultry cold chain -->
+- Deividson Ribeiro Silva (Undergraduate Research Project - Edital nº 01/2024/PRPGI), 2025
+- Luiz Filipe Ribeiro de Jesus (Undergraduate Research Project - Edital nº 04/2024/PRPGI), 2025
 - Pedro Vitor Oliveira da Silva (BSI), 2025
 - Rodrigo Meira Neves (BSI), 2025
-- Alana Agne Brandão Rocha (Undergraduate Research Project - Edital nº 009/2023/FAPESB), 2024 <!-- Education in Informatics -->
-- Felipe Lacerda Brito (Undergraduate Research Project - Edital nº 009/2023/FAPESB), 2024 <!-- Tests -->
-- Marco Antonio Barbosa Pereira (Undergraduate Research Project - Edital nº 009/2023/FAPESB),2024 <!-- UX -->
+
 - Marcos Vinicius Oliveira Silva (BSI), 2024
 - Jonas Machado Santana de Jesus (Undergraduate Research Project - Edital nº 03/2023/PRPGI/IFBA), 2024
 - Lucas Almeida Pereira (Undergraduate Research Project - Edital nº 06/2023/PRPGI), 2024

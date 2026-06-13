@@ -30,7 +30,7 @@ redirect_from:
   * Associate Professor and Researcher
 
 * 2025 - Present:
-  * Graduate Program in Systems and Products Engineering (PPGESP), SENAI CIMATEC
+  * Graduate Program in Systems and Products Engineering ([PPGESP](https://ppgesp.ifba.edu.br/))
   * Collaborating Professor (Professional Master's)
 
 * 2023 - Present:
@@ -61,7 +61,7 @@ redirect_from:
 ## Professional service
 **Journal reviewer:** Information and Software Technology, Empirical Software Engineering, Journal of Software Engineering Research and Development, Science of Computer Programming, and Software and Systems Modeling.
 
-**Program committee member** (recent): Brazilian Symposium on Software Engineering (SBES — Education, Tools, and Emerging Results tracks), Brazilian Symposium on Software Quality (SBQS), ICSE SE-in-Practice (SEIP) 2026, Brazilian Symposium on Information Systems (SBSI), and ENCompIF.
+**Program committee member** (recent): Brazilian Symposium on Software Engineering (SBES — Research, Education, Tools, and Emerging Results tracks), Brazilian Symposium on Software Quality (SBQS), ICSE SE-in-Practice ([SEIP](https://conf.researchr.org/track/icse-2026/icse-2026-software-engineering-in-practice?)) 2026, Brazilian Symposium on Information Systems (SBSI), and ENCompIF.
 
 Member of the Brazilian Computer Society (SBC) since 2006.
 

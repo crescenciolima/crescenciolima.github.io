@@ -5,15 +5,31 @@ title: Teaching
 permalink: /teaching/
 ---
 
-### 2025.1
-1. Software Engineering
-1. Programming Languages Paradigms
+### 2026.1
 1. Software Quality
+1. Software Engineering
+1. Analysis and Design of Web Systems (PGDW)
+1. Agile Web Systems Development Process (PGDW)
 
 <details>
   <summary>
     <i>(click to see the other semesters!)</i> 
   </summary>
+  <br/>
+  <b>2025.2</b>
+    <ol>
+      <li>Software Engineering</li>
+      <li>Software Quality</li>
+      <li>Capstone Project Advising (PGDW)</li>
+      <li>Course Conclusion Project — DWEB (PGDW)</li>
+    </ol>
+  <br/>
+  <b>2025.1</b>
+    <ol>
+      <li>Software Engineering</li>
+      <li>Programming Languages Paradigms</li>
+      <li>Software Quality</li>
+    </ol>
   <br/>
     <b>2024.2</b>
     <ol>
@@ -274,13 +290,29 @@ permalink: /teaching/
 
 ## <img src="/images/br_flag.png" alt="Portuguese version" style="height: 18px; width:18px;"/> Portuguese Version 
 
-### 2025.1
-1. Engenharia de Software
-1. Paradigmas de Linguagens de Programação
+### 2026.1
 1. Qualidade de Software
+1. Engenharia de Software
+1. Análise e Projeto de Sistemas Web (PGDW)
+1. Processo de Desenvolvimento Ágil de Sistemas Web (PGDW)
 
 <details>
   <summary> <b> </b> <i>(click para ver os outros semestres!)</i> </summary>
+  <br/>
+  <b>2025.2</b>
+    <ol>
+      <li>Engenharia de Software</li>
+      <li>Qualidade de Software</li>
+      <li>Acompanhamento de Orientação do TCC (PGDW)</li>
+      <li>Trabalho de Conclusão de Curso DWEB (PGDW)</li>
+    </ol>
+  <br/>
+  <b>2025.1</b>
+    <ol>
+      <li>Engenharia de Software</li>
+      <li>Qualidade de Software</li>
+      <li>Paradigmas de Linguagens de Programação</li>
+    </ol>
   <br/>
   <b>2024.2</b>
     <ol>
