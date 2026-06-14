@@ -21,12 +21,9 @@ Pensando em fazer pesquisa comigo? Leia mais [aqui](/pos-graduacao/) antes de en
 
 - Lucas Villares Barreto (BSI) <!-- app for support certificate system -->
 <!-- Lucas Vieira (BSI) -->
-
 - Fabrício Eller Sousa de Lima (BSI) <!-- LLM in PLA recovery -->
 - Gabriel Silva Morais (BSI) <!-- case study on company -->
-
 - Rafaela Dias dos Santos (BSI) <!-- Criative economy -->
-
 - Luiz Carlos Pereira Caetité (BSI) <!-- components and equipment control system -->
 - João Vitor Lemos Oliveira (BSI) <!-- React system for SURTE radio/TV -->
 - Leonardo Vilasboas de Oliveira (BSI) <!-- backend for autonomous systems control/monitoring -->

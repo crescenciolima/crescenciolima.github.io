@@ -60,10 +60,22 @@ I research about how to improve Software Engineering using empirical methods and
 **Related work**: TBD. -->
 
 ## Research groups
-* [Sistemas de Hardware e Software](http://dgp.cnpq.br/dgp/espelhogrupo/6746371546732470)
+* [Sistemas de Hardware e Software](http://dgp.cnpq.br/dgp/espelhogrupo/6746371546732470) (I coordinate this group — [LabSHS at PNIPE/MCTI](https://pnipe.mcti.gov.br/laboratory/36422))
 * Grupo de Inovação e Pesquisa em Automação e Robótica - [GIPAR](http://dgp.cnpq.br/dgp/espelhogrupo/2614433331383732)
 * Grupo de Inovação e Pesquisa em Compatibilidade Eletromagnética e Qualidade de Energia - [GIPCEM](http://dgp.cnpq.br/dgp/espelhogrupo/9223181441639201) 
 * [Manejo Integrado de Bacias Hidrográficas](http://dgp.cnpq.br/dgp/espelhogrupo/4004675122424528)
+
+## LabSHS — Perfil estratégico
+
+Perfil estratégico do Laboratório de [Sistemas de Hardware e Software (LabSHS)](https://pnipe.mcti.gov.br/laboratory/36422), alinhado às melhores práticas do setor.
+
+**Missão:** Promover o desenvolvimento de sistemas de hardware e software de qualidade por meio da pesquisa, da inovação e de métodos empíricos, elevando o potencial técnico e científico dos estudantes, da região e da indústria.
+
+**Visão:** Ser reconhecido como o principal laboratório de referência em pesquisa e inovação em sistemas de hardware e software no interior da Bahia, conectando academia, indústria e sociedade por meio da inovação.
+
+**Propósito:** Articular e coordenar esforços de ensino, pesquisa e extensão para gerar impacto positivo na formação das pessoas e no desenvolvimento tecnológico da região por meio da inovação.
+
+**Valores:** Inovação, Ética, Transparência, Qualidade, Responsabilidade social, Criatividade, Orientação a resultados, Respeito e Colaboração.
 
 ## Partnerships
 * [Jose Alberto Diaz Amado](https://gipar.ifba.edu.br/jose/) (IFBA, Brazil)
@@ -72,3 +84,4 @@ I research about how to improve Software Engineering using empirical methods and
 * [Ivan Machado](https://sites.google.com/view/ivanmachado) (UFBA, Brazil)
 * [Eduardo Almeida](https://computacao.ufba.br/pt-br/eduardo-santana-de-almeida) (UFBA, Brazil)
 * [Christina Chavez](https://computacao.ufba.br/pt-br/christina-von-flach-garcia-chavez) (UFBA, Brazil)
+* [Ingrid Winkler](https://scholar.google.com/citations?user=jnwOY5wAAAAJ) (SENAI CIMATEC, Brazil)
