@@ -71,7 +71,7 @@ Perfil estratégico do Laboratório de [Sistemas de Hardware e Software (LabSHS)
 
 **Missão:** Promover o desenvolvimento de sistemas de hardware e software de qualidade por meio da pesquisa, da inovação e de métodos empíricos, elevando o potencial técnico e científico dos estudantes, da região e da indústria.
 
-**Visão:** Ser reconhecido como o principal laboratório de referência em pesquisa e inovação em sistemas de hardware e software no interior da Bahia, conectando academia, indústria e sociedade por meio da inovação.
+**Visão:** Ser reconhecido como um  laboratório de referência em pesquisa e inovação em sistemas de hardware e software no interior da Bahia, conectando academia, indústria e sociedade por meio da inovação.
 
 **Propósito:** Articular e coordenar esforços de ensino, pesquisa e extensão para gerar impacto positivo na formação das pessoas e no desenvolvimento tecnológico da região por meio da inovação.
 

@@ -18,7 +18,6 @@ Pensando em fazer pesquisa comigo? Leia mais [aqui](/pos-graduacao/) antes de en
 
 <!-- Isaac de Jesus Silva (BSI) -->
 - Giovane Fernandes Moreira (BSI) <!-- Architecture for autonomous Service robots -->
-
 - Lucas Villares Barreto (BSI) <!-- app for support certificate system -->
 <!-- Lucas Vieira (BSI) -->
 - Fabrício Eller Sousa de Lima (BSI) <!-- LLM in PLA recovery -->
@@ -55,7 +54,6 @@ Pensando em fazer pesquisa comigo? Leia mais [aqui](/pos-graduacao/) antes de en
 - Luiz Filipe Ribeiro de Jesus (Undergraduate Research Project - Edital nº 04/2024/PRPGI), 2025
 - Pedro Vitor Oliveira da Silva (BSI), 2025
 - Rodrigo Meira Neves (BSI), 2025
-
 - Marcos Vinicius Oliveira Silva (BSI), 2024
 - Jonas Machado Santana de Jesus (Undergraduate Research Project - Edital nº 03/2023/PRPGI/IFBA), 2024
 - Lucas Almeida Pereira (Undergraduate Research Project - Edital nº 06/2023/PRPGI), 2024

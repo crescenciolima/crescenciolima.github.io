@@ -1,9 +1,10 @@
 ---
 layout: single
 author_profile: true
-title: "Ingresso na pesquisa (e na quem sabe na pós-graduação)"
+title: "Ingresso na pesquisa (e quem sabe na pós-graduação)"
 permalink: /pos-graduacao/
 ---
+
 
 **Bem-vindo(a)!** 
 

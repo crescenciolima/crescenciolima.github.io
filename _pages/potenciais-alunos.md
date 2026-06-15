@@ -38,7 +38,7 @@ Você não precisa dominar tudo desde o primeiro dia, mas espera-se que tenha (o
 disposto a aprender rapidamente):
 
 - **Git** e algum fluxo de controle de versão (GitHub/GitLab).
-- **Linha de comando** — conforto básico no terminal.
+- **Linha de comando** — utilizar comandos básicos no terminal.
 - **Programação**, de preferência em alguma linguagem de script (ex.: Python).
 - **Escrita técnica** em Markdown e/ou LaTeX.
 - **Leitura de artigos científicos** — saber localizar, ler e resumir um paper.
